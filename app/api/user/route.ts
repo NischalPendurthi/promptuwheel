@@ -13,10 +13,11 @@ export async function GET(req: NextRequest) {
   const username = req.nextUrl.searchParams.get("username");
 
   if (!username) {
-    return NextResponse.json({ usernames: getAllUsernames() });
+    const usernames = await getAllUsernames();
+    return NextResponse.json({ usernames });
   }
 
-  const user = getUser(username);
+  const user = await getUser(username);
   if (!user) {
     return NextResponse.json({ error: "User not found" }, { status: 404 });
   }
@@ -39,11 +40,11 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  const user = createUser(username);
-  return NextResponse.json(user, { status: 200 });
+  const user = await createUser(username);
+  return NextResponse.json(user);
 }
 
-// PATCH /api/user  — save history or preferences for a user
+// PATCH /api/user  — save history or preferences
 // body: { username, history? } | { username, preferences? }
 export async function PATCH(req: NextRequest) {
   const body = await req.json().catch(() => ({}));
@@ -54,12 +55,12 @@ export async function PATCH(req: NextRequest) {
   }
 
   if (body.history !== undefined) {
-    const ok = saveHistory(username, body.history as HistoryEntry[]);
+    const ok = await saveHistory(username, body.history as HistoryEntry[]);
     if (!ok) return NextResponse.json({ error: "User not found" }, { status: 404 });
   }
 
   if (body.preferences !== undefined) {
-    const ok = savePreferences(username, body.preferences as UserPreferences);
+    const ok = await savePreferences(username, body.preferences as UserPreferences);
     if (!ok) return NextResponse.json({ error: "User not found" }, { status: 404 });
   }
 
