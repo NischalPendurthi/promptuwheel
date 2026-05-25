@@ -1,0 +1,1207 @@
+[
+    {
+        "keyword": "Database Management System",
+        "category": "DBMS Fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "DBMS",
+        "category": "DBMS Fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "ER Model",
+        "category": "ER modeling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Entity",
+        "category": "ER modeling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Attribute",
+        "category": "ER modeling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Relationship",
+        "category": "ER modeling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Cardinality",
+        "category": "ER modeling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Participation Constraint",
+        "category": "ER modeling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Weak Entity",
+        "category": "ER modeling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Strong Entity",
+        "category": "ER modeling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Aggregation",
+        "category": "ER modeling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Specialization",
+        "category": "ER modeling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Generalization",
+        "category": "ER modeling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Relational Model",
+        "category": "Relational model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Relation",
+        "category": "Relational model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Tuple",
+        "category": "Relational model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Domain",
+        "category": "Relational model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Primary Key",
+        "category": "Relational model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Foreign Key",
+        "category": "Relational model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Candidate Key",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Super Key",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Alternate Key",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Composite Key",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SQL",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "DDL",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "DML",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "DCL",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "TCL",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "SELECT",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "INSERT",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "UPDATE",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "DELETE",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "WHERE Clause",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "GROUP BY",
+        "category": "SQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "HAVING",
+        "category": "SQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ORDER BY",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "LIMIT",
+        "category": "SQL",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "JOIN",
+        "category": "Joins",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "INNER JOIN",
+        "category": "Joins",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "LEFT JOIN",
+        "category": "Joins",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RIGHT JOIN",
+        "category": "Joins",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "FULL OUTER JOIN",
+        "category": "Joins",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CROSS JOIN",
+        "category": "Joins",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SELF JOIN",
+        "category": "Joins",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "NATURAL JOIN",
+        "category": "Joins",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Equi Join",
+        "category": "Joins",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Theta Join",
+        "category": "Joins",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Subquery",
+        "category": "SQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Correlated Subquery",
+        "category": "SQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Nested Query",
+        "category": "SQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Normalization",
+        "category": "Normalization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "1NF",
+        "category": "Normalization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "2NF",
+        "category": "Normalization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "3NF",
+        "category": "Normalization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "BCNF",
+        "category": "Normalization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "4NF",
+        "category": "Normalization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "5NF",
+        "category": "Normalization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Functional Dependency",
+        "category": "Normalization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multivalued Dependency",
+        "category": "Normalization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Join Dependency",
+        "category": "Normalization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Denormalization",
+        "category": "Normalization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Transaction",
+        "category": "Transactions",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "ACID Properties",
+        "category": "ACID",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Atomicity",
+        "category": "ACID",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Consistency",
+        "category": "ACID",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Isolation",
+        "category": "ACID",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Durability",
+        "category": "ACID",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Commit",
+        "category": "Transactions",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Rollback",
+        "category": "Transactions",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Savepoint",
+        "category": "Transactions",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Concurrency Control",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Locking",
+        "category": "Locking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Shared Lock",
+        "category": "Locking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Exclusive Lock",
+        "category": "Locking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Two Phase Locking",
+        "category": "Locking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Strict Two Phase Locking",
+        "category": "Locking",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Deadlock",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Timestamp Ordering",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Optimistic Concurrency Control",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MVCC",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Snapshot Isolation",
+        "category": "Concurrency control",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Index",
+        "category": "Indexing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "B Tree",
+        "category": "Indexing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "B+ Tree",
+        "category": "B+ trees",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hash Index",
+        "category": "Indexing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Clustered Index",
+        "category": "Indexing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Non Clustered Index",
+        "category": "Indexing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Composite Index",
+        "category": "Indexing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Covering Index",
+        "category": "Indexing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Bitmap Index",
+        "category": "Indexing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Partial Index",
+        "category": "Indexing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Query Optimization",
+        "category": "Query optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Execution Plan",
+        "category": "Query optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cost Based Optimizer",
+        "category": "Query optimization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Rule Based Optimizer",
+        "category": "Query optimization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Statistics",
+        "category": "Query optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Join Ordering",
+        "category": "Query optimization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Index Selection",
+        "category": "Query optimization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Recovery System",
+        "category": "Recovery systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Log Based Recovery",
+        "category": "Recovery systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ARIES",
+        "category": "Recovery systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Checkpoint",
+        "category": "Recovery systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Shadow Paging",
+        "category": "Recovery systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "WAL",
+        "category": "Recovery systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed Database",
+        "category": "Distributed databases",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CAP Theorem",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consistency",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Availability",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Partition Tolerance",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Horizontal Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Vertical Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Master Slave Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multi Master Replication",
+        "category": "Replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Synchronous Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Asynchronous Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "NoSQL",
+        "category": "NoSQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Key Value Store",
+        "category": "NoSQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Document Database",
+        "category": "NoSQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Column Family Database",
+        "category": "NoSQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Graph Database",
+        "category": "NoSQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MongoDB",
+        "category": "NoSQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cassandra",
+        "category": "NoSQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Neo4j",
+        "category": "NoSQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Redis",
+        "category": "NoSQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DynamoDB",
+        "category": "NoSQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "NewSQL",
+        "category": "Modern databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Storage Engine",
+        "category": "Storage engines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "InnoDB",
+        "category": "Storage engines",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MyISAM",
+        "category": "Storage engines",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RocksDB",
+        "category": "Storage engines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "LSM Tree",
+        "category": "Storage engines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "OLTP",
+        "category": "OLTP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "OLAP",
+        "category": "OLAP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Data Warehouse",
+        "category": "Data warehousing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ETL",
+        "category": "Data warehousing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Star Schema",
+        "category": "Data warehousing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Snowflake Schema",
+        "category": "Data warehousing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fact Table",
+        "category": "Data warehousing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dimension Table",
+        "category": "Data warehousing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Trigger",
+        "category": "Triggers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "View",
+        "category": "Views",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Materialized View",
+        "category": "Views",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stored Procedure",
+        "category": "Stored procedures",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Function",
+        "category": "Stored procedures",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cursor",
+        "category": "Stored procedures",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Database Security",
+        "category": "Database security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Authentication",
+        "category": "Database security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Authorization",
+        "category": "Database security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Encryption",
+        "category": "Database security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Row Level Security",
+        "category": "Database security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Audit Trail",
+        "category": "Database security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "SQL Injection",
+        "category": "Database security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Vector Database",
+        "category": "Vector databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Pinecone",
+        "category": "Vector databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Weaviate",
+        "category": "Vector databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Embedding Index",
+        "category": "Vector databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "HNSW",
+        "category": "Vector databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Full Text Search",
+        "category": "Indexing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Inverted Index",
+        "category": "Indexing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "PostgreSQL",
+        "category": "Modern databases",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MySQL",
+        "category": "Modern databases",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Oracle",
+        "category": "Modern databases",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SQL Server",
+        "category": "Modern databases",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "BigQuery",
+        "category": "Modern databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Snowflake DB",
+        "category": "Modern databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Spanner",
+        "category": "Distributed databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CockroachDB",
+        "category": "Distributed databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Two Phase Commit",
+        "category": "Distributed databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Three Phase Commit",
+        "category": "Distributed databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Quorum",
+        "category": "Distributed databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Eventual Consistency",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Strong Consistency",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Partitioning",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consistent Hashing",
+        "category": "Sharding",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Read Replica",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hot Standby",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Database Normalization",
+        "category": "Normalization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Anomaly",
+        "category": "Normalization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Isolation Level",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Read Uncommitted",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Read Committed",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Repeatable Read",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Serializable",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Phantom Read",
+        "category": "Concurrency control",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Dirty Read",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Lost Update",
+        "category": "Concurrency control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Query Planner",
+        "category": "Query optimization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Histogram",
+        "category": "Query optimization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Cardinality Estimation",
+        "category": "Query optimization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Buffer Pool",
+        "category": "Storage engines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Page",
+        "category": "Storage engines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Extent",
+        "category": "Storage engines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Data Block",
+        "category": "Storage engines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Tablespace",
+        "category": "Storage engines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Data Dictionary",
+        "category": "Relational model",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Catalog",
+        "category": "Relational model",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Schema",
+        "category": "Relational model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Instance",
+        "category": "DBMS Fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Data Independence",
+        "category": "DBMS Fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Physical Data Independence",
+        "category": "DBMS Fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Logical Data Independence",
+        "category": "DBMS Fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Codd Rules",
+        "category": "Relational model",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Relational Algebra",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Selection",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Projection",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cartesian Product",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Union",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Intersection",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Set Difference",
+        "category": "Relational model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Division",
+        "category": "Relational model",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Aggregate Function",
+        "category": "SQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Window Function",
+        "category": "SQL",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CTE",
+        "category": "SQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Recursive CTE",
+        "category": "SQL",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Pivot",
+        "category": "SQL",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Unpivot",
+        "category": "SQL",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Database Backup",
+        "category": "Recovery systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Point in Time Recovery",
+        "category": "Recovery systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Database Mirroring",
+        "category": "Replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Log Shipping",
+        "category": "Replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Partition Pruning",
+        "category": "Query optimization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Index Only Scan",
+        "category": "Indexing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Sequential Scan",
+        "category": "Query optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bitmap Scan",
+        "category": "Indexing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Foreign Data Wrapper",
+        "category": "Distributed databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Federated Database",
+        "category": "Distributed databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Polyglot Persistence",
+        "category": "Modern databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Time Series Database",
+        "category": "Modern databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "InfluxDB",
+        "category": "Modern databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "GraphQL Database",
+        "category": "Modern databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Change Data Capture",
+        "category": "Modern databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Database Proxy",
+        "category": "Modern databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Connection Pooling",
+        "category": "Modern databases",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Prepared Statement",
+        "category": "SQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Database Shard Key",
+        "category": "Sharding",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Hot Partition",
+        "category": "Sharding",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Database Vacuum",
+        "category": "Storage engines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Autovacuum",
+        "category": "Storage engines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Write Ahead Log",
+        "category": "Recovery systems",
+        "difficulty": "intermediate"
+    }
+]

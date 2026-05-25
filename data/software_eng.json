@@ -1,0 +1,982 @@
+[
+    {
+        "keyword": "Software Engineering",
+        "category": "Software Engineering Basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "SDLC",
+        "category": "SDLC",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Software Development Life Cycle",
+        "category": "SDLC",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Requirements Gathering",
+        "category": "Requirement analysis",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Requirement Analysis",
+        "category": "Requirement analysis",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Feasibility Study",
+        "category": "Requirement analysis",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Functional Requirement",
+        "category": "Requirement analysis",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Non Functional Requirement",
+        "category": "Requirement analysis",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "SRS Document",
+        "category": "Requirement analysis",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Waterfall Model",
+        "category": "Waterfall",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Agile Methodology",
+        "category": "Agile",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Scrum",
+        "category": "Scrum",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Kanban",
+        "category": "Kanban",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Sprint",
+        "category": "Scrum",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Product Backlog",
+        "category": "Scrum",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Sprint Backlog",
+        "category": "Scrum",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Daily Standup",
+        "category": "Scrum",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Sprint Review",
+        "category": "Scrum",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Sprint Retrospective",
+        "category": "Scrum",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "User Story",
+        "category": "Agile",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Story Point",
+        "category": "Agile",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Velocity",
+        "category": "Agile",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Burndown Chart",
+        "category": "Agile",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Software Architecture",
+        "category": "Software architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Monolithic Architecture",
+        "category": "Software architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Microservices Architecture",
+        "category": "Software architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Layered Architecture",
+        "category": "Software architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Event Driven Architecture",
+        "category": "Software architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Clean Architecture",
+        "category": "Software architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Domain Driven Design",
+        "category": "Software architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "UML",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Class Diagram",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sequence Diagram",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Use Case Diagram",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Activity Diagram",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Design Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Singleton Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Factory Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Observer Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Strategy Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SOLID Principles",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Single Responsibility",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Open Closed Principle",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Liskov Substitution",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interface Segregation",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dependency Inversion",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Testing",
+        "category": "Testing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Unit Testing",
+        "category": "Unit testing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Integration Testing",
+        "category": "Integration testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "System Testing",
+        "category": "System testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Regression Testing",
+        "category": "Regression testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Acceptance Testing",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "TDD",
+        "category": "TDD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Test Driven Development",
+        "category": "TDD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "BDD",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Mocking",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CI/CD",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Continuous Integration",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Continuous Deployment",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Version Control",
+        "category": "Version control",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Git",
+        "category": "Version control",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Branching Strategy",
+        "category": "Version control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "GitFlow",
+        "category": "Version control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Code Review",
+        "category": "Code review",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pull Request",
+        "category": "Code review",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Refactoring",
+        "category": "Refactoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Technical Debt",
+        "category": "Technical debt",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Code Smell",
+        "category": "Technical debt",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Documentation",
+        "category": "Documentation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "API Documentation",
+        "category": "Documentation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "README",
+        "category": "Documentation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Maintainability",
+        "category": "Maintainability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Scalability",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reliability",
+        "category": "Reliability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fault Tolerance",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Observability",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Logging",
+        "category": "Logging",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Monitoring",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Metrics",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed Tracing",
+        "category": "Observability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Clean Code",
+        "category": "Clean code",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Meaningful Names",
+        "category": "Clean code",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DRY Principle",
+        "category": "Clean code",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "KISS Principle",
+        "category": "Clean code",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "YAGNI",
+        "category": "Clean code",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DevOps",
+        "category": "DevOps collaboration",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DevSecOps",
+        "category": "DevOps collaboration",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Release Management",
+        "category": "Release management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Blue Green Deployment",
+        "category": "Release management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Canary Release",
+        "category": "Release management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Risk Management",
+        "category": "Risk management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Risk Assessment",
+        "category": "Risk management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Mitigation Plan",
+        "category": "Risk management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Software Metrics",
+        "category": "Software metrics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cyclomatic Complexity",
+        "category": "Software metrics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Code Coverage",
+        "category": "Software metrics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MTTR",
+        "category": "Software metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "MTBF",
+        "category": "Software metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Estimation",
+        "category": "Estimation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Planning Poker",
+        "category": "Estimation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Project Management",
+        "category": "Project management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Gantt Chart",
+        "category": "Project management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stakeholder Management",
+        "category": "Project management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pair Programming",
+        "category": "Pair programming",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Mob Programming",
+        "category": "Pair programming",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Secure SDLC",
+        "category": "Secure SDLC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Threat Modeling",
+        "category": "Secure SDLC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Incident Response",
+        "category": "Incident response",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Root Cause Analysis",
+        "category": "Root cause analysis",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "5 Whys",
+        "category": "Root cause analysis",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Post Mortem",
+        "category": "Incident response",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RCA",
+        "category": "Root cause analysis",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Code Quality",
+        "category": "Clean code",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Static Code Analysis",
+        "category": "Clean code",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Linting",
+        "category": "Clean code",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Code Ownership",
+        "category": "Project management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bus Factor",
+        "category": "Project management",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Knowledge Sharing",
+        "category": "Teamwork",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Retrospective",
+        "category": "Agile",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Definition of Done",
+        "category": "Scrum",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Definition of Ready",
+        "category": "Scrum",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Continuous Delivery",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Feature Flag",
+        "category": "Release management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "A/B Testing",
+        "category": "Release management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Load Testing",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stress Testing",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Security Testing",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Penetration Testing",
+        "category": "Testing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Performance Testing",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Usability Testing",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Black Box Testing",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "White Box Testing",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Exploratory Testing",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Test Pyramid",
+        "category": "Testing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Test Automation",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Selenium",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "JUnit",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Mocha",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cucumber",
+        "category": "Testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Git Branch",
+        "category": "Version control",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Merge Conflict",
+        "category": "Version control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rebase",
+        "category": "Version control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cherry Pick",
+        "category": "Version control",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Code Smell Detection",
+        "category": "Technical debt",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Refactoring Technique",
+        "category": "Refactoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Boy Scout Rule",
+        "category": "Clean code",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Big Ball of Mud",
+        "category": "Software architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Spaghetti Code",
+        "category": "Technical debt",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Modularity",
+        "category": "Maintainability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reusability",
+        "category": "Maintainability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Extensibility",
+        "category": "Maintainability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Testability",
+        "category": "Maintainability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Coupling",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cohesion",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "GRASP Principles",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Information Expert",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Low Coupling High Cohesion",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Software Quality",
+        "category": "Software metrics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ISO 25010",
+        "category": "Software metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Effort Estimation",
+        "category": "Estimation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "COCOMO",
+        "category": "Estimation",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Function Point Analysis",
+        "category": "Estimation",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Stakeholder",
+        "category": "Project management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "RACI Matrix",
+        "category": "Project management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Project Charter",
+        "category": "Project management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Scope Creep",
+        "category": "Project management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Change Management",
+        "category": "Project management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Burnup Chart",
+        "category": "Agile",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MVP",
+        "category": "Agile",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Minimum Viable Product",
+        "category": "Agile",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Lean Software Development",
+        "category": "Agile",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "XP Practices",
+        "category": "Agile",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Continuous Refactoring",
+        "category": "Refactoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Collective Code Ownership",
+        "category": "Teamwork",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sustainable Pace",
+        "category": "Agile",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Secure Coding",
+        "category": "Secure SDLC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "OWASP",
+        "category": "Secure SDLC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Vulnerability Scanning",
+        "category": "Secure SDLC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Blameless Postmortem",
+        "category": "Incident response",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "PagerDuty",
+        "category": "Incident response",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "On Call Rotation",
+        "category": "Incident response",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MTTR",
+        "category": "Software metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "MTBF",
+        "category": "Software metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "DORA Metrics",
+        "category": "Software metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Deployment Frequency",
+        "category": "Software metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Lead Time",
+        "category": "Software metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Change Failure Rate",
+        "category": "Software metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Time To Restore",
+        "category": "Software metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Technical Specification",
+        "category": "Documentation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Architecture Decision Record",
+        "category": "Documentation",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "ADR",
+        "category": "Documentation",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Code Comment",
+        "category": "Documentation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Self Documenting Code",
+        "category": "Clean code",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "API Contract",
+        "category": "Documentation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "OpenAPI",
+        "category": "Documentation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Swagger",
+        "category": "Documentation",
+        "difficulty": "intermediate"
+    }
+]

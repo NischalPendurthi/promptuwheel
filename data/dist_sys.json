@@ -1,0 +1,887 @@
+[
+    {
+        "keyword": "Distributed System",
+        "category": "Distributed Computing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Distributed Computing",
+        "category": "Distributed Computing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Node",
+        "category": "Distributed Computing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Cluster",
+        "category": "Distributed Computing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Scalability",
+        "category": "Scalability",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Horizontal Scaling",
+        "category": "Scalability",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Vertical Scaling",
+        "category": "Scalability",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Elasticity",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CAP Theorem",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consistency",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Availability",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Partition Tolerance",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consistency Model",
+        "category": "Consistency models",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Strong Consistency",
+        "category": "Strong consistency",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Eventual Consistency",
+        "category": "Eventual consistency",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Causal Consistency",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Linearizability",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Sequential Consistency",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Master Slave Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multi Master Replication",
+        "category": "Replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Synchronous Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Asynchronous Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Active Active Replication",
+        "category": "Replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Quorum",
+        "category": "Quorum",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Read Quorum",
+        "category": "Quorum",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Quorum",
+        "category": "Quorum",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Partitioning",
+        "category": "Partitioning",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Horizontal Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Range Based Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hash Based Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consistent Hashing",
+        "category": "Consistent hashing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Resharding",
+        "category": "Sharding",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Hot Partition",
+        "category": "Sharding",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Consensus Algorithm",
+        "category": "Consensus algorithms",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Paxos",
+        "category": "Paxos",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Raft",
+        "category": "Raft",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "ZAB",
+        "category": "Consensus algorithms",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Leader Election",
+        "category": "Leader election",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bully Algorithm",
+        "category": "Leader election",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Ring Algorithm",
+        "category": "Leader election",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Distributed Lock",
+        "category": "Distributed locking",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Redlock",
+        "category": "Distributed locking",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Distributed Transaction",
+        "category": "Distributed transactions",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Two Phase Commit",
+        "category": "Two-phase commit",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Three Phase Commit",
+        "category": "Distributed transactions",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Saga Pattern",
+        "category": "Saga pattern",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Compensating Transaction",
+        "category": "Saga pattern",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Fault Tolerance",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "High Availability",
+        "category": "High availability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Failover",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Heartbeat",
+        "category": "Heartbeats",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Gossip Protocol",
+        "category": "Gossip protocol",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Vector Clock",
+        "category": "Vector clocks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Lamport Clock",
+        "category": "Lamport clocks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Hybrid Logical Clock",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Idempotency",
+        "category": "Idempotency",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Retry Mechanism",
+        "category": "Retry mechanisms",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Exponential Backoff",
+        "category": "Retry mechanisms",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Circuit Breaker",
+        "category": "Circuit breaker",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bulkhead Pattern",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Service Discovery",
+        "category": "Service discovery",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Client Side Discovery",
+        "category": "Service discovery",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Server Side Discovery",
+        "category": "Service discovery",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Eureka",
+        "category": "Service discovery",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consul",
+        "category": "Service discovery",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed Cache",
+        "category": "Distributed caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Redis Cluster",
+        "category": "Distributed caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed Queue",
+        "category": "Distributed queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Kafka",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Topic",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Partition",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consumer Group",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Offset",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Producer",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Broker",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stream Processing",
+        "category": "Stream processing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Flink",
+        "category": "Stream processing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Spark Streaming",
+        "category": "Stream processing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Event Sourcing",
+        "category": "Event sourcing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CQRS",
+        "category": "CQRS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Command Query Responsibility Segregation",
+        "category": "CQRS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Microservices",
+        "category": "Microservices",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Service Mesh",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Istio",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "API Gateway",
+        "category": "API gateway",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Load Balancing",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Round Robin",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Least Connection",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consistent Hash Load Balancing",
+        "category": "Load balancing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Geo Distribution",
+        "category": "Geo-distribution",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Multi Region Deployment",
+        "category": "Multi-region deployment",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Data Replication",
+        "category": "Data replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cross Region Replication",
+        "category": "Data replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Backpressure",
+        "category": "Backpressure",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Observability",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed Tracing",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Metrics",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Logging",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Prometheus",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Grafana",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Jaeger",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Split Brain",
+        "category": "Fault tolerance",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Byzantine Fault",
+        "category": "Fault tolerance",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "FLP Impossibility",
+        "category": "Consensus algorithms",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Chandy Lamport Snapshot",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Global Snapshot",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Zookeeper",
+        "category": "Distributed locking",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Etcd",
+        "category": "Distributed locking",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Leader Follower",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Follower",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Log Replication",
+        "category": "Replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "WAL",
+        "category": "Replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Exactly Once Semantics",
+        "category": "Kafka concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "At Least Once",
+        "category": "Consistency models",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "At Most Once",
+        "category": "Consistency models",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Message Broker",
+        "category": "Distributed queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RabbitMQ",
+        "category": "Distributed queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pub Sub",
+        "category": "Distributed queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Event Driven Architecture",
+        "category": "Event sourcing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Domain Event",
+        "category": "Event sourcing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Event Store",
+        "category": "Event sourcing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Read Model",
+        "category": "CQRS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Write Model",
+        "category": "CQRS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Materialized View",
+        "category": "CQRS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "API Gateway",
+        "category": "API gateway",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rate Limiting",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Throttling",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Timeout",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dead Letter Queue",
+        "category": "Distributed queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Message Ordering",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Partition Key",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consumer Lag",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rebalancing",
+        "category": "Kafka concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Availability Zone",
+        "category": "Geo-distribution",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Region",
+        "category": "Geo-distribution",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multi AZ",
+        "category": "Multi-region deployment",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Data Center",
+        "category": "Geo-distribution",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Edge Computing",
+        "category": "Modern Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CDN",
+        "category": "Modern Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Zero Trust",
+        "category": "Security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "mTLS",
+        "category": "Security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "SLO",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SLA",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Error Budget",
+        "category": "Observability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Chaos Engineering",
+        "category": "Fault tolerance",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Failure Injection",
+        "category": "Fault tolerance",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Blue Green Deployment",
+        "category": "Modern Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Canary Release",
+        "category": "Modern Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Feature Flag",
+        "category": "Modern Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed Database",
+        "category": "Distributed Computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Spanner",
+        "category": "Distributed Computing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CockroachDB",
+        "category": "Distributed Computing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Cassandra",
+        "category": "Distributed Computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DynamoDB",
+        "category": "Distributed Computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CRDT",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Conflict Free Replicated Data Type",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Hadoop",
+        "category": "Distributed Computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MapReduce",
+        "category": "Distributed Computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "YARN",
+        "category": "Distributed Computing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "HDFS",
+        "category": "Distributed Computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "NameNode",
+        "category": "Distributed Computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DataNode",
+        "category": "Distributed Computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Leader",
+        "category": "Raft",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Follower",
+        "category": "Raft",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Candidate",
+        "category": "Raft",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Log Commitment",
+        "category": "Raft",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Safety Property",
+        "category": "Consensus algorithms",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Liveness Property",
+        "category": "Consensus algorithms",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Network Partition",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Partial Failure",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fallacies of Distributed Computing",
+        "category": "Distributed Computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Eight Fallacies",
+        "category": "Distributed Computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Request Response",
+        "category": "Communication",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Fire and Forget",
+        "category": "Communication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Request Reply",
+        "category": "Communication",
+        "difficulty": "intermediate"
+    }
+]

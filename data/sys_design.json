@@ -1,0 +1,1162 @@
+[
+    {
+        "keyword": "System Design",
+        "category": "System Design Basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "High Level Design",
+        "category": "System Design Basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Low Level Design",
+        "category": "System Design Basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Scalability",
+        "category": "Scalability",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Vertical Scaling",
+        "category": "Scalability",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Horizontal Scaling",
+        "category": "Scalability",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Scale Up",
+        "category": "Scalability",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Scale Out",
+        "category": "Scalability",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Elastic Scaling",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Load Balancer",
+        "category": "Load balancing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Round Robin",
+        "category": "Load balancing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Least Connections",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consistent Hashing",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Layer 4 Load Balancer",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Layer 7 Load Balancer",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Caching",
+        "category": "Caching",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Cache Aside",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Read Through Cache",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Through Cache",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Back Cache",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cache Eviction",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "LRU Cache",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "LFU Cache",
+        "category": "Caching",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Redis",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Memcached",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CDN",
+        "category": "CDN",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Edge Caching",
+        "category": "CDN",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Database",
+        "category": "Databases",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "SQL Database",
+        "category": "Databases",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "NoSQL Database",
+        "category": "Databases",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Relational Database",
+        "category": "Databases",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "ACID Properties",
+        "category": "Databases",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CAP Theorem",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consistency",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Availability",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Partition Tolerance",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "BASE Properties",
+        "category": "CAP theorem",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Master Slave Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multi Master Replication",
+        "category": "Replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Synchronous Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Asynchronous Replication",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Quorum",
+        "category": "Replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Horizontal Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Range Based Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hash Based Sharding",
+        "category": "Sharding",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Directory Based Sharding",
+        "category": "Sharding",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Resharding",
+        "category": "Sharding",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Message Queue",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Kafka",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RabbitMQ",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SQS",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pub Sub",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Event Driven Architecture",
+        "category": "Event-driven systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Event Sourcing",
+        "category": "Event-driven systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CQRS",
+        "category": "Event-driven systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Microservices",
+        "category": "Microservices",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Monolith",
+        "category": "Monoliths",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Service Mesh",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "API Gateway",
+        "category": "API gateways",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reverse Proxy",
+        "category": "Reverse proxy",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Nginx",
+        "category": "Reverse proxy",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rate Limiting",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Token Bucket",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Leaky Bucket",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fixed Window",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sliding Window",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consistency Model",
+        "category": "Consistency models",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Strong Consistency",
+        "category": "Consistency models",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Eventual Consistency",
+        "category": "Consistency models",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Causal Consistency",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Linearizability",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Consensus Algorithm",
+        "category": "Consensus algorithms",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Paxos",
+        "category": "Consensus algorithms",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Raft",
+        "category": "Consensus algorithms",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Zab",
+        "category": "Consensus algorithms",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Fault Tolerance",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Failover",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Circuit Breaker",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bulkhead Pattern",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Retry Pattern",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Timeout",
+        "category": "Fault tolerance",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Observability",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Monitoring",
+        "category": "Monitoring",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Logging",
+        "category": "Logging",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Tracing",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed Tracing",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Metrics",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Prometheus",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Grafana",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ELK Stack",
+        "category": "Logging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Security",
+        "category": "Security",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Authentication",
+        "category": "Authentication",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Authorization",
+        "category": "Authorization",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "OAuth2",
+        "category": "Authentication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "JWT",
+        "category": "Authentication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RBAC",
+        "category": "Authorization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ABAC",
+        "category": "Authorization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "TLS",
+        "category": "Security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "mTLS",
+        "category": "Security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Zero Trust",
+        "category": "Security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Cloud Computing",
+        "category": "Cloud computing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "IaaS",
+        "category": "Cloud computing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "PaaS",
+        "category": "Cloud computing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "SaaS",
+        "category": "Cloud computing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "AWS",
+        "category": "Cloud computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "GCP",
+        "category": "Cloud computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Azure",
+        "category": "Cloud computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Serverless",
+        "category": "Cloud computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Lambda Function",
+        "category": "Cloud computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Container",
+        "category": "Containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Docker",
+        "category": "Containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Kubernetes",
+        "category": "Kubernetes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pod",
+        "category": "Kubernetes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Deployment",
+        "category": "Kubernetes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Service",
+        "category": "Kubernetes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Ingress",
+        "category": "Kubernetes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ConfigMap",
+        "category": "Kubernetes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Secret",
+        "category": "Kubernetes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Service Discovery",
+        "category": "Service discovery",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Eureka",
+        "category": "Service discovery",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consul",
+        "category": "Service discovery",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CI/CD",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Continuous Integration",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Continuous Deployment",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Jenkins",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "GitHub Actions",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ArgoCD",
+        "category": "CI/CD",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Object Storage",
+        "category": "Storage systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "S3",
+        "category": "Storage systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Block Storage",
+        "category": "Storage systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "File Storage",
+        "category": "Storage systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed File System",
+        "category": "Storage systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "HDFS",
+        "category": "Storage systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Stream Processing",
+        "category": "Stream processing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Flink",
+        "category": "Stream processing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Spark Streaming",
+        "category": "Stream processing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Data Pipeline",
+        "category": "Data pipelines",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ETL",
+        "category": "Data pipelines",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Airflow",
+        "category": "Data pipelines",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Real Time System",
+        "category": "Real-time systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WebSocket",
+        "category": "Real-time systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Long Polling",
+        "category": "Real-time systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Design Pattern",
+        "category": "System design patterns",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Saga Pattern",
+        "category": "System design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Strangler Fig Pattern",
+        "category": "System design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Backpressure",
+        "category": "System design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Idempotency",
+        "category": "System design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "API Design",
+        "category": "Backend architecture",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "REST API",
+        "category": "Backend architecture",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "GraphQL",
+        "category": "Backend architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "gRPC",
+        "category": "Backend architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Throttling",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Database Indexing",
+        "category": "Databases",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "B Tree",
+        "category": "Databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "LSM Tree",
+        "category": "Databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Leader Election",
+        "category": "Consensus algorithms",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Heartbeat",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Split Brain",
+        "category": "Distributed systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Vector Clock",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CRDT",
+        "category": "Consistency models",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Two Phase Commit",
+        "category": "Distributed systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Three Phase Commit",
+        "category": "Distributed systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Distributed Lock",
+        "category": "Distributed systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Zookeeper",
+        "category": "Distributed systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Etcd",
+        "category": "Distributed systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Availability Zone",
+        "category": "Cloud computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Region",
+        "category": "Cloud computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multi AZ Deployment",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Blue Green Deployment",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Canary Deployment",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Feature Flag",
+        "category": "CI/CD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Chaos Engineering",
+        "category": "Fault tolerance",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "SLO",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SLA",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Error Budget",
+        "category": "Observability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Distributed Cache",
+        "category": "Caching",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Read Replica",
+        "category": "Replication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Heavy System",
+        "category": "Scalability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Read Heavy System",
+        "category": "Scalability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Hot Partition",
+        "category": "Sharding",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Database Denormalization",
+        "category": "Databases",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Polyglot Persistence",
+        "category": "Databases",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Eventual Consistency Tradeoff",
+        "category": "Consistency models",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Exactly Once Delivery",
+        "category": "Message queues",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "At Least Once",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "At Most Once",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Domain Driven Design",
+        "category": "Backend architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Bounded Context",
+        "category": "Backend architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "API Versioning",
+        "category": "API gateways",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Backend For Frontend",
+        "category": "API gateways",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "GraphQL Federation",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Server Sent Events",
+        "category": "Real-time systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WebRTC",
+        "category": "Real-time systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Data Lake",
+        "category": "Data pipelines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Data Warehouse",
+        "category": "Data pipelines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Lambda Architecture",
+        "category": "Data pipelines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Kappa Architecture",
+        "category": "Data pipelines",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Istio",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Linkerd",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Helm Chart",
+        "category": "Kubernetes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Operator Pattern",
+        "category": "Kubernetes",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Sidecar Pattern",
+        "category": "Microservices",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Ambassador Pattern",
+        "category": "Microservices",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Adapter Pattern",
+        "category": "Microservices",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "GitOps",
+        "category": "CI/CD",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Infrastructure as Code",
+        "category": "Cloud computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Terraform",
+        "category": "Cloud computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Auto Scaling Group",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Serverless Container",
+        "category": "Containers",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Cold Start",
+        "category": "Serverless",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Observability Pipeline",
+        "category": "Observability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "RUM",
+        "category": "Observability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Synthetic Monitoring",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Anomaly Detection",
+        "category": "Monitoring",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Distributed Log",
+        "category": "Logging",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Audit Log",
+        "category": "Security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WAF",
+        "category": "Security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DDoS Protection",
+        "category": "Security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Secrets Management",
+        "category": "Security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Vault",
+        "category": "Security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Immutable Infrastructure",
+        "category": "Cloud computing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Phoenix Server",
+        "category": "Cloud computing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Database Sharding Strategy",
+        "category": "Sharding",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Global Distribution",
+        "category": "Distributed systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Multi Region Replication",
+        "category": "Replication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Edge Computing",
+        "category": "Modern cloud-native",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Jamstack",
+        "category": "Modern cloud-native",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Headless CMS",
+        "category": "Modern cloud-native",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "API First Design",
+        "category": "Backend architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Contract Testing",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Consumer Driven Contract",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    }
+]

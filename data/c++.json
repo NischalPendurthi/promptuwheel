@@ -1,0 +1,1102 @@
+[
+    {
+        "keyword": "C++",
+        "category": "C++ Basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Hello World",
+        "category": "Syntax basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Main Function",
+        "category": "Syntax basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Include Directive",
+        "category": "Syntax basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Namespace Std",
+        "category": "Namespaces",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Using Namespace",
+        "category": "Namespaces",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Variable",
+        "category": "Variables",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Constant",
+        "category": "Variables",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Const",
+        "category": "Variables",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Int",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Float",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Double",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Char",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Bool",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Void",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Short",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Long",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Unsigned",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Signed",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Sizeof",
+        "category": "Data types",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Array",
+        "category": "Arrays",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Multidimensional Array",
+        "category": "Arrays",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "String",
+        "category": "Strings",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Std String",
+        "category": "Strings",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "C String",
+        "category": "Strings",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pointer",
+        "category": "Pointers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Null Pointer",
+        "category": "Pointers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dangling Pointer",
+        "category": "Pointers",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Void Pointer",
+        "category": "Pointers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pointer Arithmetic",
+        "category": "Pointers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reference",
+        "category": "References",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Lvalue Reference",
+        "category": "References",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rvalue Reference",
+        "category": "Move semantics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Function",
+        "category": "Functions",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Function Overloading",
+        "category": "Functions",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Inline Function",
+        "category": "Functions",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Default Argument",
+        "category": "Functions",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Recursion",
+        "category": "Recursion",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Tail Recursion",
+        "category": "Recursion",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Class",
+        "category": "OOP in C++",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Object",
+        "category": "OOP in C++",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Constructor",
+        "category": "Constructors",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Default Constructor",
+        "category": "Constructors",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Parameterized Constructor",
+        "category": "Constructors",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Copy Constructor",
+        "category": "Constructors",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Move Constructor",
+        "category": "Move semantics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Destructor",
+        "category": "Destructors",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Virtual Destructor",
+        "category": "Destructors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Inheritance",
+        "category": "OOP in C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Single Inheritance",
+        "category": "OOP in C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multiple Inheritance",
+        "category": "OOP in C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Virtual Inheritance",
+        "category": "OOP in C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Polymorphism",
+        "category": "OOP in C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Method Overriding",
+        "category": "OOP in C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Virtual Function",
+        "category": "OOP in C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pure Virtual Function",
+        "category": "OOP in C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Abstract Class",
+        "category": "OOP in C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Operator Overloading",
+        "category": "Operator overloading",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Friend Function",
+        "category": "OOP in C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Friend Class",
+        "category": "OOP in C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "This Pointer",
+        "category": "Pointers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Static Member",
+        "category": "OOP in C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Template",
+        "category": "Templates",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Function Template",
+        "category": "Templates",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Class Template",
+        "category": "Templates",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Template Specialization",
+        "category": "Templates",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Variadic Template",
+        "category": "Templates",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Vector",
+        "category": "STL containers",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Std Vector",
+        "category": "STL containers",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "List",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Std List",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Deque",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Std Deque",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Map",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Std Map",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Unordered Map",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Set",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Std Set",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Unordered Set",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stack",
+        "category": "STL containers",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Queue",
+        "category": "STL containers",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Priority Queue",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pair",
+        "category": "STL containers",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Tuple",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Array Container",
+        "category": "STL containers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Iterator",
+        "category": "Iterators",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Begin End",
+        "category": "Iterators",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Const Iterator",
+        "category": "Iterators",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reverse Iterator",
+        "category": "Iterators",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sort",
+        "category": "STL algorithms",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Find",
+        "category": "STL algorithms",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "For Each",
+        "category": "STL algorithms",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Transform",
+        "category": "STL algorithms",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Accumulate",
+        "category": "STL algorithms",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Lower Bound",
+        "category": "STL algorithms",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Upper Bound",
+        "category": "STL algorithms",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Binary Search",
+        "category": "STL algorithms",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Unique",
+        "category": "STL algorithms",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Smart Pointer",
+        "category": "Smart pointers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Unique Ptr",
+        "category": "Smart pointers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Shared Ptr",
+        "category": "Smart pointers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Weak Ptr",
+        "category": "Smart pointers",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Move Semantics",
+        "category": "Move semantics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Std Move",
+        "category": "Move semantics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Rvalue",
+        "category": "Move semantics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Lvalue",
+        "category": "Move semantics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "RAII",
+        "category": "RAII",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "New Operator",
+        "category": "Memory allocation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Delete Operator",
+        "category": "Memory allocation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Malloc",
+        "category": "Memory allocation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Calloc",
+        "category": "Memory allocation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Realloc",
+        "category": "Memory allocation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Free",
+        "category": "Memory allocation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Memory Leak",
+        "category": "Memory allocation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Lambda Expression",
+        "category": "Lambda expressions",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Capture By Value",
+        "category": "Lambda expressions",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Capture By Reference",
+        "category": "Lambda expressions",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Exception Handling",
+        "category": "Exception handling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Try Catch",
+        "category": "Exception handling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Throw",
+        "category": "Exception handling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Std Exception",
+        "category": "Exception handling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Macro",
+        "category": "Macros",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Define",
+        "category": "Macros",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Ifdef",
+        "category": "Macros",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pragma Once",
+        "category": "Macros",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Constexpr",
+        "category": "Compile-time programming",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Constexpr Function",
+        "category": "Compile-time programming",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Template Metaprogramming",
+        "category": "Compile-time programming",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Type Trait",
+        "category": "Compile-time programming",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Static Assert",
+        "category": "Compile-time programming",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Namespace",
+        "category": "Namespaces",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Nested Namespace",
+        "category": "Namespaces",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Anonymous Namespace",
+        "category": "Namespaces",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Static Cast",
+        "category": "Type casting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dynamic Cast",
+        "category": "Type casting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reinterpret Cast",
+        "category": "Type casting",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Const Cast",
+        "category": "Type casting",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Auto",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Auto Type Deduction",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Range Based For Loop",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Nullptr",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Override",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Final",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Default",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Delete",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Thread",
+        "category": "Multithreading",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Std Thread",
+        "category": "Multithreading",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Mutex",
+        "category": "Multithreading",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Lock Guard",
+        "category": "Multithreading",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Unique Lock",
+        "category": "Multithreading",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Condition Variable",
+        "category": "Multithreading",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Atomic",
+        "category": "Multithreading",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Future",
+        "category": "Multithreading",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Promise",
+        "category": "Multithreading",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Async",
+        "category": "Multithreading",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Undefined Behavior",
+        "category": "Undefined behavior",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Strict Aliasing",
+        "category": "Undefined behavior",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Data Race",
+        "category": "Undefined behavior",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Two's Complement",
+        "category": "Low-level C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Endianness",
+        "category": "Low-level C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Bit Manipulation",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fast Input",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fast Output",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bitset",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Policy Based Data Structure",
+        "category": "Competitive programming tricks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Ordered Set",
+        "category": "Competitive programming tricks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Struct",
+        "category": "Syntax basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Union",
+        "category": "Syntax basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Enum",
+        "category": "Syntax basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Typedef",
+        "category": "Syntax basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Using Declaration",
+        "category": "Namespaces",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Std Cout",
+        "category": "Syntax basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Std Cin",
+        "category": "Syntax basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Ternary Operator",
+        "category": "Syntax basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Switch Case",
+        "category": "Syntax basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Do While",
+        "category": "Syntax basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Break Continue",
+        "category": "Syntax basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Goto",
+        "category": "Syntax basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Volatile",
+        "category": "Low-level C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Explicit",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Noexcept",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Alignas",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Alignof",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Std Optional",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Std Variant",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Std Any",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Structured Binding",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "If Constexpr",
+        "category": "Compile-time programming",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Fold Expression",
+        "category": "Templates",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Concept",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Requires",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Coroutine",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Module",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Three Way Comparison",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Std Span",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Std String View",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Std Chrono",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Std Filesystem",
+        "category": "Modern C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Std Regex",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Placement New",
+        "category": "Memory allocation",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Copy Elision",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Return Value Optimization",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Rule of Three",
+        "category": "OOP in C++",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rule of Five",
+        "category": "Modern C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Perfect Forwarding",
+        "category": "Move semantics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Universal Reference",
+        "category": "Move semantics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "SFINAE",
+        "category": "Templates",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CRTP",
+        "category": "Templates",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "PImpl Idiom",
+        "category": "OOP in C++",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "RAII Guard",
+        "category": "RAII",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Big O Notation",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Two Pointer Technique",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sliding Window",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Prefix Sum",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Modulo Operation",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "GCD LCM",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sieve of Eratosthenes",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DFS",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "BFS",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Memoization",
+        "category": "Competitive programming tricks",
+        "difficulty": "intermediate"
+    }
+]

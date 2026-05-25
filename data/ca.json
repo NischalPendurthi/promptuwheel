@@ -1,0 +1,1077 @@
+[
+    {
+        "keyword": "Computer Architecture",
+        "category": "Computer Architecture Basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Von Neumann Architecture",
+        "category": "Computer Architecture Basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Harvard Architecture",
+        "category": "Computer Architecture Basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Digital Logic",
+        "category": "Digital logic",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Logic Gate",
+        "category": "Digital logic",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "AND Gate",
+        "category": "Digital logic",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "OR Gate",
+        "category": "Digital logic",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "NOT Gate",
+        "category": "Digital logic",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "NAND Gate",
+        "category": "Digital logic",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "NOR Gate",
+        "category": "Digital logic",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "XOR Gate",
+        "category": "Digital logic",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Half Adder",
+        "category": "Digital logic",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Full Adder",
+        "category": "Digital logic",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multiplexer",
+        "category": "Digital logic",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Demultiplexer",
+        "category": "Digital logic",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Decoder",
+        "category": "Digital logic",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Encoder",
+        "category": "Digital logic",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Flip Flop",
+        "category": "Digital logic",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SR Latch",
+        "category": "Digital logic",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "D Flip Flop",
+        "category": "Digital logic",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "JK Flip Flop",
+        "category": "Digital logic",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Register",
+        "category": "Registers",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Shift Register",
+        "category": "Registers",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ALU",
+        "category": "ALU",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Arithmetic Logic Unit",
+        "category": "ALU",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "CPU Organization",
+        "category": "CPU organization",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Control Unit",
+        "category": "CPU organization",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Datapath",
+        "category": "CPU organization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Instruction Cycle",
+        "category": "Instruction cycle",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Fetch Decode Execute",
+        "category": "Instruction cycle",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Instruction Fetch",
+        "category": "Instruction cycle",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Instruction Decode",
+        "category": "Instruction cycle",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Execute",
+        "category": "Instruction cycle",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Memory Access",
+        "category": "Instruction cycle",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Back",
+        "category": "Instruction cycle",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ISA",
+        "category": "ISA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Instruction Set Architecture",
+        "category": "ISA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RISC",
+        "category": "RISC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CISC",
+        "category": "CISC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reduced Instruction Set",
+        "category": "RISC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Complex Instruction Set",
+        "category": "CISC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ARM",
+        "category": "ISA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "x86",
+        "category": "ISA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MIPS",
+        "category": "ISA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RISC-V",
+        "category": "ISA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Addressing Mode",
+        "category": "ISA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Immediate Addressing",
+        "category": "ISA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Direct Addressing",
+        "category": "ISA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Indirect Addressing",
+        "category": "ISA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pipelining",
+        "category": "Pipelining",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pipeline Stage",
+        "category": "Pipelining",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Instruction Pipeline",
+        "category": "Pipelining",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pipeline Hazard",
+        "category": "Hazards",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Structural Hazard",
+        "category": "Hazards",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Data Hazard",
+        "category": "Hazards",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Control Hazard",
+        "category": "Hazards",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hazard Detection",
+        "category": "Hazards",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stall",
+        "category": "Hazards",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Forwarding",
+        "category": "Hazards",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Branch Prediction",
+        "category": "Branch prediction",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Static Branch Prediction",
+        "category": "Branch prediction",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dynamic Branch Prediction",
+        "category": "Branch prediction",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "One Bit Predictor",
+        "category": "Branch prediction",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Two Bit Predictor",
+        "category": "Branch prediction",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Branch Target Buffer",
+        "category": "Branch prediction",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Superscalar",
+        "category": "Superscalar execution",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Out of Order Execution",
+        "category": "Out-of-order execution",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "In Order Execution",
+        "category": "CPU organization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Speculative Execution",
+        "category": "Out-of-order execution",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Tomasulo Algorithm",
+        "category": "Out-of-order execution",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Scoreboarding",
+        "category": "Out-of-order execution",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Cache Memory",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cache Hit",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cache Miss",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Compulsory Miss",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Capacity Miss",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Conflict Miss",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Direct Mapped Cache",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Set Associative Cache",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fully Associative Cache",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Through",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Back",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Allocate",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "No Write Allocate",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Replacement Policy",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "LRU",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "FIFO",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Random Replacement",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Memory Hierarchy",
+        "category": "Memory hierarchy",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Main Memory",
+        "category": "Memory hierarchy",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Secondary Memory",
+        "category": "Memory hierarchy",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "RAM",
+        "category": "Memory hierarchy",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "ROM",
+        "category": "Memory hierarchy",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "DRAM",
+        "category": "Memory hierarchy",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SRAM",
+        "category": "Memory hierarchy",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Virtual Memory",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Page",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Frame",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Page Table",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Page Fault",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Demand Paging",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "TLB",
+        "category": "TLB",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Translation Lookaside Buffer",
+        "category": "TLB",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multilevel Page Table",
+        "category": "Virtual memory",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Inverted Page Table",
+        "category": "Virtual memory",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Thrashing",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Working Set",
+        "category": "Virtual memory",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Multicore Processor",
+        "category": "Multicore processors",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Symmetric Multiprocessing",
+        "category": "Multicore processors",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Asymmetric Multiprocessing",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Cache Coherence",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "MESI Protocol",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "MOESI Protocol",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Parallel Computing",
+        "category": "Parallel computing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Flynn Taxonomy",
+        "category": "Flynn taxonomy",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SISD",
+        "category": "Flynn taxonomy",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SIMD",
+        "category": "SIMD",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MIMD",
+        "category": "Flynn taxonomy",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MISD",
+        "category": "Flynn taxonomy",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Vector Processor",
+        "category": "SIMD",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "GPU Architecture",
+        "category": "GPU architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CUDA",
+        "category": "GPU architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stream Multiprocessor",
+        "category": "GPU architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Warp",
+        "category": "GPU architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Thread Block",
+        "category": "GPU architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "GPGPU",
+        "category": "GPU architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bus System",
+        "category": "Bus systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "System Bus",
+        "category": "Bus systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Address Bus",
+        "category": "Bus systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Data Bus",
+        "category": "Bus systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Control Bus",
+        "category": "Bus systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "PCIe",
+        "category": "Bus systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Front Side Bus",
+        "category": "Bus systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interrupt",
+        "category": "Interrupts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hardware Interrupt",
+        "category": "Interrupts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Software Interrupt",
+        "category": "Interrupts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interrupt Vector",
+        "category": "Interrupts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interrupt Handler",
+        "category": "Interrupts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DMA",
+        "category": "DMA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Direct Memory Access",
+        "category": "DMA",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cycle Stealing",
+        "category": "DMA",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Burst Mode DMA",
+        "category": "DMA",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Assembly Language",
+        "category": "Assembly basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Machine Code",
+        "category": "Assembly basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Opcode",
+        "category": "Assembly basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Operand",
+        "category": "Assembly basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Mnemonic",
+        "category": "Assembly basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Performance Metrics",
+        "category": "Performance metrics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "CPI",
+        "category": "Performance metrics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MIPS",
+        "category": "Performance metrics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MFLOPS",
+        "category": "Performance metrics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Clock Cycle",
+        "category": "Performance metrics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Clock Frequency",
+        "category": "Performance metrics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Amdahl Law",
+        "category": "Performance metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Gustafson Law",
+        "category": "Performance metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Speedup",
+        "category": "Performance metrics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Efficiency",
+        "category": "Performance metrics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Instruction Level Parallelism",
+        "category": "Parallel computing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Thread Level Parallelism",
+        "category": "Parallel computing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Data Level Parallelism",
+        "category": "SIMD",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "VLIW",
+        "category": "CPU organization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "EPIC",
+        "category": "CPU organization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Hyper Threading",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Simultaneous Multithreading",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "NUMA",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "UMA",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Cache Line",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Spatial Locality",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Temporal Locality",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Prefetching",
+        "category": "Cache memory",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Branch Target",
+        "category": "Branch prediction",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reorder Buffer",
+        "category": "Out-of-order execution",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Reservation Station",
+        "category": "Out-of-order execution",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Register Renaming",
+        "category": "Out-of-order execution",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Instruction Window",
+        "category": "Out-of-order execution",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Pipeline Flush",
+        "category": "Hazards",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pipeline Bubble",
+        "category": "Hazards",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Microarchitecture",
+        "category": "CPU organization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Microcode",
+        "category": "CPU organization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Microinstruction",
+        "category": "CPU organization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Coprocessor",
+        "category": "CPU organization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Floating Point Unit",
+        "category": "ALU",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "IEEE 754",
+        "category": "ALU",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Endianness",
+        "category": "Assembly basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Big Endian",
+        "category": "Assembly basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Little Endian",
+        "category": "Assembly basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Memory Mapped I/O",
+        "category": "Bus systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Port Mapped I/O",
+        "category": "Bus systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interrupt Priority",
+        "category": "Interrupts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Vectored Interrupt",
+        "category": "Interrupts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Polling",
+        "category": "Interrupts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Context Switch",
+        "category": "CPU organization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pipeline Depth",
+        "category": "Pipelining",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Instruction Level Parallelism ILP",
+        "category": "Parallel computing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Amdahl's Law",
+        "category": "Performance metrics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Moore's Law",
+        "category": "Performance metrics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dark Silicon",
+        "category": "Modern Architectures",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Heterogeneous Computing",
+        "category": "Modern Architectures",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Tensor Core",
+        "category": "GPU architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Ray Tracing Core",
+        "category": "GPU architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Cache Hierarchy",
+        "category": "Memory hierarchy",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "L1 Cache",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "L2 Cache",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "L3 Cache",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Last Level Cache",
+        "category": "Cache memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Non Uniform Memory Access",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Coherent Cache",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Directory Based Coherence",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Snooping Protocol",
+        "category": "Multicore processors",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Hardware Transactional Memory",
+        "category": "Modern Architectures",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Near Data Processing",
+        "category": "Modern Architectures",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Processing In Memory",
+        "category": "Modern Architectures",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Neuromorphic Computing",
+        "category": "Modern Architectures",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Quantum Architecture",
+        "category": "Modern Architectures",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Systolic Array",
+        "category": "Parallel computing",
+        "difficulty": "advanced"
+    }
+]

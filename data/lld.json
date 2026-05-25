@@ -1,0 +1,982 @@
+[
+    {
+        "keyword": "Low Level Design",
+        "category": "LLD Fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Object Oriented Design",
+        "category": "OOP principles",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Class",
+        "category": "OOP principles",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Object",
+        "category": "OOP principles",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Encapsulation",
+        "category": "Encapsulation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Abstraction",
+        "category": "Abstraction",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Inheritance",
+        "category": "OOP principles",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Polymorphism",
+        "category": "OOP principles",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "SOLID Principles",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Single Responsibility",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Open Closed Principle",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Liskov Substitution",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interface Segregation",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dependency Inversion",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DRY Principle",
+        "category": "Design principles",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "KISS Principle",
+        "category": "Design principles",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "YAGNI",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Coupling",
+        "category": "Coupling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Loose Coupling",
+        "category": "Coupling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Tight Coupling",
+        "category": "Coupling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cohesion",
+        "category": "Cohesion",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "High Cohesion",
+        "category": "Cohesion",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Low Cohesion",
+        "category": "Cohesion",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Composition",
+        "category": "Composition",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Aggregation",
+        "category": "Aggregation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Association",
+        "category": "Object relationships",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dependency",
+        "category": "Object relationships",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interface",
+        "category": "Interfaces",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Abstract Class",
+        "category": "Abstraction",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Concrete Class",
+        "category": "OOP principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dependency Injection",
+        "category": "Dependency injection",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Constructor Injection",
+        "category": "Dependency injection",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Setter Injection",
+        "category": "Dependency injection",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Method Injection",
+        "category": "Dependency injection",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "UML Diagram",
+        "category": "UML diagrams",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Class Diagram",
+        "category": "Class diagrams",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sequence Diagram",
+        "category": "Sequence diagrams",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Use Case Diagram",
+        "category": "UML diagrams",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Activity Diagram",
+        "category": "UML diagrams",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "State Diagram",
+        "category": "UML diagrams",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Component Diagram",
+        "category": "UML diagrams",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Design Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Creational Pattern",
+        "category": "Creational patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Structural Pattern",
+        "category": "Structural patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Behavioral Pattern",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Singleton Pattern",
+        "category": "Creational patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Factory Method",
+        "category": "Creational patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Abstract Factory",
+        "category": "Creational patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Builder Pattern",
+        "category": "Creational patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Prototype Pattern",
+        "category": "Creational patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Adapter Pattern",
+        "category": "Structural patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bridge Pattern",
+        "category": "Structural patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Composite Pattern",
+        "category": "Structural patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Decorator Pattern",
+        "category": "Structural patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Facade Pattern",
+        "category": "Structural patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Flyweight Pattern",
+        "category": "Structural patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Proxy Pattern",
+        "category": "Structural patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Observer Pattern",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Strategy Pattern",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Command Pattern",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "State Pattern",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Template Method",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Iterator Pattern",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Chain of Responsibility",
+        "category": "Behavioral patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Mediator Pattern",
+        "category": "Behavioral patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Memento Pattern",
+        "category": "Behavioral patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Visitor Pattern",
+        "category": "Behavioral patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "MVC Pattern",
+        "category": "MVC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Model",
+        "category": "MVC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "View",
+        "category": "MVC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Controller",
+        "category": "MVC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Layered Architecture",
+        "category": "Layered architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Presentation Layer",
+        "category": "Layered architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Business Logic Layer",
+        "category": "Layered architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Data Access Layer",
+        "category": "Layered architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Clean Architecture",
+        "category": "Clean architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Domain Layer",
+        "category": "Clean architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Application Layer",
+        "category": "Clean architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Infrastructure Layer",
+        "category": "Clean architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Domain Driven Design",
+        "category": "Domain-driven design basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Bounded Context",
+        "category": "Domain-driven design basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Entity",
+        "category": "Domain-driven design basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Value Object",
+        "category": "Domain-driven design basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Aggregate",
+        "category": "Domain-driven design basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Repository Pattern",
+        "category": "Repository pattern",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Service Layer",
+        "category": "Service layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Domain Service",
+        "category": "Service layer",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Application Service",
+        "category": "Service layer",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "API Design",
+        "category": "API design",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "REST API",
+        "category": "API design",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Resource Naming",
+        "category": "API design",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "HTTP Methods",
+        "category": "API design",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Status Codes",
+        "category": "API design",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Versioning",
+        "category": "API design",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pagination",
+        "category": "API design",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Filtering",
+        "category": "API design",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rate Limiting",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Token Bucket",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Leaky Bucket",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Authentication",
+        "category": "Authentication basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Authorization",
+        "category": "Authentication basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "JWT",
+        "category": "Authentication basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "OAuth",
+        "category": "Authentication basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Exception Handling",
+        "category": "Exception handling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Custom Exception",
+        "category": "Exception handling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Global Exception Handler",
+        "category": "Exception handling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Thread Safety",
+        "category": "Thread safety",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Immutability",
+        "category": "Immutability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Immutable Object",
+        "category": "Immutability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Logging",
+        "category": "Logging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Structured Logging",
+        "category": "Logging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Validation",
+        "category": "Validation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Input Validation",
+        "category": "Validation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Business Validation",
+        "category": "Validation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Caching Strategy",
+        "category": "Caching strategies",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cache Aside",
+        "category": "Caching strategies",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Read Through",
+        "category": "Caching strategies",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Through",
+        "category": "Caching strategies",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Back",
+        "category": "Caching strategies",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cache Invalidation",
+        "category": "Caching strategies",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "GRASP Principles",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Information Expert",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Creator",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Controller",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Low Coupling",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "High Cohesion",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Indirection",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Protected Variations",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Pure Fabrication",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Law of Demeter",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Tell Dont Ask",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Favor Composition",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Programming To Interface",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Factory Pattern",
+        "category": "Creational patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Singleton Thread Safe",
+        "category": "Creational patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Lazy Initialization",
+        "category": "Creational patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Eager Initialization",
+        "category": "Creational patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Double Checked Locking",
+        "category": "Creational patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Observer Subject",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Observer Listener",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Strategy Interface",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Command Invoker",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Command Receiver",
+        "category": "Behavioral patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "State Machine",
+        "category": "State pattern",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Decorator Wrapper",
+        "category": "Structural patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Adapter Class",
+        "category": "Structural patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Facade Simplification",
+        "category": "Structural patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Unit Of Work",
+        "category": "Repository pattern",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Data Mapper",
+        "category": "Repository pattern",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Active Record",
+        "category": "Repository pattern",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Transaction Script",
+        "category": "Service layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Domain Model",
+        "category": "Domain-driven design basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Anemic Domain Model",
+        "category": "Domain-driven design basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Rich Domain Model",
+        "category": "Domain-driven design basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Anti Corruption Layer",
+        "category": "Domain-driven design basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Saga Pattern",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Circuit Breaker",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Bulkhead Pattern",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Retry Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Timeout Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Idempotency",
+        "category": "API design",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "API Gateway",
+        "category": "API design",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Backend For Frontend",
+        "category": "API design",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Contract Testing",
+        "category": "API design",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Thread Safe Singleton",
+        "category": "Thread safety",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Immutable Class",
+        "category": "Immutability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Final Keyword",
+        "category": "Immutability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Defensive Copy",
+        "category": "Immutability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Structured Logging",
+        "category": "Logging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Correlation ID",
+        "category": "Logging",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Input Sanitization",
+        "category": "Validation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fluent Validation",
+        "category": "Validation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Null Object Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Object Pool",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Event Sourcing",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CQRS",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Read Model",
+        "category": "CQRS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Write Model",
+        "category": "CQRS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Hexagonal Architecture",
+        "category": "Clean architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Onion Architecture",
+        "category": "Clean architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Port And Adapter",
+        "category": "Clean architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Inversion Of Control",
+        "category": "Dependency injection",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DI Container",
+        "category": "Dependency injection",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Service Locator",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "God Class",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Long Method",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Feature Envy",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Primitive Obsession",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Refactoring",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Code Smell",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Maintainability",
+        "category": "Maintainability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Extensibility",
+        "category": "Maintainability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Testability",
+        "category": "Maintainability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reusability",
+        "category": "Maintainability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Scalability",
+        "category": "Maintainability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Modularity",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    }
+]

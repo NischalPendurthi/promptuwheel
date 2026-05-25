@@ -1,0 +1,1072 @@
+[
+    {
+        "keyword": "Computer Network",
+        "category": "Network Fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "OSI Model",
+        "category": "OSI model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Physical Layer",
+        "category": "OSI model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Data Link Layer",
+        "category": "OSI model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Network Layer",
+        "category": "OSI model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Transport Layer",
+        "category": "OSI model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Session Layer",
+        "category": "OSI model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Presentation Layer",
+        "category": "OSI model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Application Layer",
+        "category": "OSI model",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "PDU",
+        "category": "OSI model",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "TCP/IP Model",
+        "category": "TCP/IP",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Internet Layer",
+        "category": "TCP/IP",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Link Layer",
+        "category": "TCP/IP",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Bit",
+        "category": "Physical Layer",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Frame",
+        "category": "Data Link Layer",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Packet",
+        "category": "Network Layer",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Segment",
+        "category": "Transport Layer",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Ethernet",
+        "category": "Ethernet",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "MAC Address",
+        "category": "Ethernet",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "CSMA/CD",
+        "category": "Ethernet",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CSMA/CA",
+        "category": "Wireless networking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Switch",
+        "category": "Switching",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Hub",
+        "category": "Switching",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Bridge",
+        "category": "Switching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Layer 2 Switch",
+        "category": "Switching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Layer 3 Switch",
+        "category": "Switching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "VLAN",
+        "category": "Switching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Trunking",
+        "category": "Switching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "STP",
+        "category": "Switching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Spanning Tree Protocol",
+        "category": "Switching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Router",
+        "category": "Routing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Routing Table",
+        "category": "Routing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Static Routing",
+        "category": "Routing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Dynamic Routing",
+        "category": "Routing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "RIP",
+        "category": "Routing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "OSPF",
+        "category": "Routing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "EIGRP",
+        "category": "Routing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "BGP",
+        "category": "BGP",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Interior Gateway Protocol",
+        "category": "Routing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Exterior Gateway Protocol",
+        "category": "Routing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "IP Address",
+        "category": "IP addressing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "IPv4",
+        "category": "IP addressing",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "IPv6",
+        "category": "IP addressing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Subnetting",
+        "category": "Subnetting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Subnet Mask",
+        "category": "Subnetting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CIDR",
+        "category": "Subnetting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Supernetting",
+        "category": "Subnetting",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Private IP",
+        "category": "IP addressing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Public IP",
+        "category": "IP addressing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Loopback Address",
+        "category": "IP addressing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ARP",
+        "category": "ARP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RARP",
+        "category": "ARP",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "DHCP",
+        "category": "DHCP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DHCP Relay",
+        "category": "DHCP",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "NAT",
+        "category": "NAT",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "PAT",
+        "category": "NAT",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Static NAT",
+        "category": "NAT",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dynamic NAT",
+        "category": "NAT",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "TCP",
+        "category": "TCP",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "UDP",
+        "category": "UDP",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Three Way Handshake",
+        "category": "TCP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Four Way Handshake",
+        "category": "TCP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "TCP Flags",
+        "category": "TCP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sequence Number",
+        "category": "TCP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Acknowledgment Number",
+        "category": "TCP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "TCP Window",
+        "category": "TCP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Flow Control",
+        "category": "Flow control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Congestion Control",
+        "category": "Congestion control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Slow Start",
+        "category": "Congestion control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Congestion Avoidance",
+        "category": "Congestion control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fast Retransmit",
+        "category": "Congestion control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fast Recovery",
+        "category": "Congestion control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "TCP Reno",
+        "category": "Congestion control",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "TCP Tahoe",
+        "category": "Congestion control",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Port Number",
+        "category": "Transport Layer",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Well Known Ports",
+        "category": "Transport Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Socket",
+        "category": "Transport Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DNS",
+        "category": "DNS",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "DNS Resolver",
+        "category": "DNS",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DNS Record",
+        "category": "DNS",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "A Record",
+        "category": "DNS",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "AAAA Record",
+        "category": "DNS",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MX Record",
+        "category": "DNS",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CNAME",
+        "category": "DNS",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "NS Record",
+        "category": "DNS",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "TTL",
+        "category": "DNS",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "HTTP",
+        "category": "HTTP",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "HTTPS",
+        "category": "HTTPS",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "HTTP Request",
+        "category": "HTTP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "HTTP Response",
+        "category": "HTTP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "HTTP Methods",
+        "category": "HTTP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Status Codes",
+        "category": "HTTP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "REST",
+        "category": "HTTP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WebSocket",
+        "category": "WebSockets",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "QUIC",
+        "category": "QUIC",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "TLS",
+        "category": "TLS/SSL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SSL",
+        "category": "TLS/SSL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Handshake",
+        "category": "TLS/SSL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Certificate",
+        "category": "TLS/SSL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CDN",
+        "category": "CDN",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Proxy",
+        "category": "Proxies",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Forward Proxy",
+        "category": "Proxies",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reverse Proxy",
+        "category": "Proxies",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Load Balancer",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Round Robin",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Least Connections",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "VPN",
+        "category": "VPN",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "IPSec",
+        "category": "VPN",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "OpenVPN",
+        "category": "VPN",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WireGuard",
+        "category": "VPN",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Firewall",
+        "category": "Firewalls",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stateful Firewall",
+        "category": "Firewalls",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stateless Firewall",
+        "category": "Firewalls",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WAF",
+        "category": "Firewalls",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "ACL",
+        "category": "Firewalls",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Network Security",
+        "category": "Network security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Encryption",
+        "category": "Network security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Authentication",
+        "category": "Network security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Man in the Middle",
+        "category": "Network security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DDoS",
+        "category": "Network security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Spoofing",
+        "category": "Network security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sniffing",
+        "category": "Network security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Wireless Network",
+        "category": "Wireless networking",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "WiFi",
+        "category": "Wireless networking",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "802.11",
+        "category": "Wireless networking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SSID",
+        "category": "Wireless networking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WEP",
+        "category": "Wireless networking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WPA2",
+        "category": "Wireless networking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WPA3",
+        "category": "Wireless networking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Access Point",
+        "category": "Wireless networking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Mobile Network",
+        "category": "Mobile networks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "GSM",
+        "category": "Mobile networks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "LTE",
+        "category": "Mobile networks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "5G",
+        "category": "Mobile networks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Handover",
+        "category": "Mobile networks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "MPLS",
+        "category": "MPLS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Label Switching",
+        "category": "MPLS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "SDN",
+        "category": "SDN",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Software Defined Networking",
+        "category": "SDN",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Controller",
+        "category": "SDN",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "OpenFlow",
+        "category": "SDN",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Network Virtualization",
+        "category": "Network virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "NFV",
+        "category": "Network virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Virtual Switch",
+        "category": "Network virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Overlay Network",
+        "category": "Network virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "VXLAN",
+        "category": "Network virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Packet Capture",
+        "category": "Packet analysis",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Wireshark",
+        "category": "Packet analysis",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "tcpdump",
+        "category": "Packet analysis",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ICMP",
+        "category": "Network Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Ping",
+        "category": "Network Layer",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Traceroute",
+        "category": "Network Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "IGMP",
+        "category": "Network Layer",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Multicast",
+        "category": "Network Layer",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Broadcast",
+        "category": "Network Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Unicast",
+        "category": "Network Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Anycast",
+        "category": "Network Layer",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "QoS",
+        "category": "Network Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Traffic Shaping",
+        "category": "Network Layer",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Bandwidth",
+        "category": "Network Fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Latency",
+        "category": "Network Fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Jitter",
+        "category": "Network Fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Throughput",
+        "category": "Network Fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "MTU",
+        "category": "Data Link Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fragmentation",
+        "category": "Network Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reassembly",
+        "category": "Network Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Error Detection",
+        "category": "Data Link Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CRC",
+        "category": "Data Link Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Parity Check",
+        "category": "Data Link Layer",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hamming Code",
+        "category": "Data Link Layer",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Sliding Window",
+        "category": "Flow control",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Go Back N",
+        "category": "Flow control",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Selective Repeat",
+        "category": "Flow control",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "HTTP/2",
+        "category": "HTTP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "HTTP/3",
+        "category": "HTTP",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Server Push",
+        "category": "HTTP",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Multiplexing",
+        "category": "HTTP",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Keep Alive",
+        "category": "HTTP",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DNSSEC",
+        "category": "DNS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Anycast DNS",
+        "category": "DNS",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Load Balancer L4",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Load Balancer L7",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consistent Hashing",
+        "category": "Load balancing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Zero Trust",
+        "category": "Network security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "mTLS",
+        "category": "Network security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Intrusion Detection",
+        "category": "Network security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "IDS",
+        "category": "Network security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "IPS",
+        "category": "Network security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "SIEM",
+        "category": "Network security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Edge Computing",
+        "category": "Modern Networks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Service Mesh",
+        "category": "Modern Networks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Istio",
+        "category": "Modern Networks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "eBPF",
+        "category": "Modern Networks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "SRv6",
+        "category": "Modern Networks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "EVPN",
+        "category": "Network virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Segment Routing",
+        "category": "Routing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Telemetry",
+        "category": "Modern Networks",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "NetFlow",
+        "category": "Packet analysis",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "sFlow",
+        "category": "Packet analysis",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "GRE Tunnel",
+        "category": "VPN",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "IPsec Tunnel",
+        "category": "VPN",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SSL VPN",
+        "category": "VPN",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "802.1X",
+        "category": "Wireless networking",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Roaming",
+        "category": "Wireless networking",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Beamforming",
+        "category": "Wireless networking",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "MIMO",
+        "category": "Wireless networking",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "VoIP",
+        "category": "Modern Networks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SIP",
+        "category": "Modern Networks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RTP",
+        "category": "Modern Networks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Anycast",
+        "category": "IP addressing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Broadcast Domain",
+        "category": "Network Fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Collision Domain",
+        "category": "Network Fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Autonegotiation",
+        "category": "Ethernet",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "PoE",
+        "category": "Ethernet",
+        "difficulty": "intermediate"
+    }
+]

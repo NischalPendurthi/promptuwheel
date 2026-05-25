@@ -1,0 +1,1257 @@
+[
+    {
+        "keyword": "Operating System",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Kernel",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "User Mode",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Kernel Mode",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "System Call",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Monolithic Kernel",
+        "category": "Kernel architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Microkernel",
+        "category": "Kernel architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hybrid Kernel",
+        "category": "Kernel architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Boot Process",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "BIOS",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "UEFI",
+        "category": "OS fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interrupt",
+        "category": "OS fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Trap",
+        "category": "OS fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Exception",
+        "category": "OS fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dual Mode Operation",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Multiprogramming",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Multitasking",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Time Sharing",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Batch Processing",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Real Time OS",
+        "category": "Real-time systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed OS",
+        "category": "Distributed systems basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Process",
+        "category": "Process management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Process State",
+        "category": "Process management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "PCB",
+        "category": "Process management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Process Creation",
+        "category": "Process management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Fork",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Exec",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Wait",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Zombie Process",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Orphan Process",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Context Switch",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Process Control Block",
+        "category": "Process management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Inter Process Communication",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Shared Memory",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Message Passing",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pipe",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Signal",
+        "category": "Process management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Thread",
+        "category": "Threads and concurrency",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "User Level Thread",
+        "category": "Threads and concurrency",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Kernel Level Thread",
+        "category": "Threads and concurrency",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multithreading",
+        "category": "Threads and concurrency",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Thread Pool",
+        "category": "Threads and concurrency",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Concurrency",
+        "category": "Threads and concurrency",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Parallelism",
+        "category": "Threads and concurrency",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CPU Scheduling",
+        "category": "CPU scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "FCFS Scheduling",
+        "category": "CPU scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "SJF Scheduling",
+        "category": "CPU scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Priority Scheduling",
+        "category": "CPU scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Round Robin",
+        "category": "CPU scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Multilevel Queue",
+        "category": "CPU scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multilevel Feedback Queue",
+        "category": "CPU scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Preemptive Scheduling",
+        "category": "CPU scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Non Preemptive",
+        "category": "CPU scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Convoy Effect",
+        "category": "CPU scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Scheduling Criteria",
+        "category": "CPU scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Throughput",
+        "category": "CPU scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Turnaround Time",
+        "category": "CPU scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Waiting Time",
+        "category": "CPU scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Response Time",
+        "category": "CPU scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Mutex",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Semaphore",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Binary Semaphore",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Counting Semaphore",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Monitor",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Critical Section",
+        "category": "Synchronization",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Peterson Solution",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dekker Algorithm",
+        "category": "Synchronization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Reader Writer Problem",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dining Philosophers",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bounded Buffer",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Deadlock",
+        "category": "Deadlocks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Deadlock Prevention",
+        "category": "Deadlocks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Deadlock Avoidance",
+        "category": "Deadlocks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Deadlock Detection",
+        "category": "Deadlocks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bankers Algorithm",
+        "category": "Deadlocks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Resource Allocation Graph",
+        "category": "Deadlocks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Circular Wait",
+        "category": "Deadlocks",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Hold and Wait",
+        "category": "Deadlocks",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "No Preemption",
+        "category": "Deadlocks",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Mutual Exclusion",
+        "category": "Deadlocks",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Memory Management",
+        "category": "Memory management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Contiguous Allocation",
+        "category": "Memory management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Non Contiguous Allocation",
+        "category": "Memory management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fixed Partition",
+        "category": "Memory management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Variable Partition",
+        "category": "Memory management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Paging",
+        "category": "Paging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Page Table",
+        "category": "Paging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Page Replacement",
+        "category": "Paging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "FIFO Page Replacement",
+        "category": "Paging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "LRU Page Replacement",
+        "category": "Paging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Optimal Page Replacement",
+        "category": "Paging",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Thrashing",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Segmentation",
+        "category": "Segmentation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Segment Table",
+        "category": "Segmentation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Virtual Memory",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Demand Paging",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Page Fault",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Frame Allocation",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Working Set",
+        "category": "Virtual memory",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "File System",
+        "category": "File systems",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "File Concept",
+        "category": "File systems",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Directory Structure",
+        "category": "File systems",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Mounting",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "File Allocation Methods",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Contiguous Allocation",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Linked Allocation",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Indexed Allocation",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Free Space Management",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bitmap",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Disk Scheduling",
+        "category": "Disk scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "FCFS Disk",
+        "category": "Disk scheduling",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "SSTF Disk",
+        "category": "Disk scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SCAN Disk",
+        "category": "Disk scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "C-SCAN",
+        "category": "Disk scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "LOOK",
+        "category": "Disk scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "C-LOOK",
+        "category": "Disk scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "I/O System",
+        "category": "I/O systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Device Controller",
+        "category": "Device management",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Interrupt Driven I/O",
+        "category": "I/O systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DMA",
+        "category": "I/O systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Polling",
+        "category": "I/O systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Buffering",
+        "category": "I/O systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Caching",
+        "category": "I/O systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Spooling",
+        "category": "I/O systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Protection",
+        "category": "Protection and security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Access Control",
+        "category": "Protection and security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ACL",
+        "category": "Protection and security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Capability List",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Security",
+        "category": "Protection and security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Authentication",
+        "category": "Protection and security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Authorization",
+        "category": "Protection and security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Encryption",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Linux",
+        "category": "Linux internals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "procfs",
+        "category": "Linux internals",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "sysfs",
+        "category": "Linux internals",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "VFS",
+        "category": "File systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Ext4",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Inode",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Superblock",
+        "category": "File systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Kernel Module",
+        "category": "Linux internals",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Scheduler",
+        "category": "CPU scheduling",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CFS Scheduler",
+        "category": "CPU scheduling",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "O(1) Scheduler",
+        "category": "CPU scheduling",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Namespace",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Cgroup",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Docker",
+        "category": "Containers and virtualization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Virtual Machine",
+        "category": "Containers and virtualization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hypervisor",
+        "category": "Containers and virtualization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Type 1 Hypervisor",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Type 2 Hypervisor",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Paravirtualization",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Container",
+        "category": "Containers and virtualization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multicore Scheduling",
+        "category": "Multicore systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Load Balancing",
+        "category": "Multicore systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Affinity",
+        "category": "Multicore systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "NUMA",
+        "category": "Multicore systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Amdahl Law",
+        "category": "Multicore systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Race Condition",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Livelock",
+        "category": "Deadlocks",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Starvation",
+        "category": "CPU scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Aging",
+        "category": "CPU scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Priority Inversion",
+        "category": "Synchronization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "TLB",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Translation Lookaside Buffer",
+        "category": "Virtual memory",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Inverted Page Table",
+        "category": "Paging",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Swapping",
+        "category": "Memory management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dynamic Loading",
+        "category": "Memory management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dynamic Linking",
+        "category": "Memory management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Overlay",
+        "category": "Memory management",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "RAID",
+        "category": "Disk scheduling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Journaling File System",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Log Structured FS",
+        "category": "File systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "FUSE",
+        "category": "File systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Device Driver",
+        "category": "Device management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Kernel Panic",
+        "category": "Linux internals",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Shell",
+        "category": "OS fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Daemon",
+        "category": "Linux internals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Init Process",
+        "category": "Linux internals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Systemd",
+        "category": "Linux internals",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "POSIX",
+        "category": "OS fundamentals",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Semaphore Binary",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Condition Variable",
+        "category": "Synchronization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Spinlock",
+        "category": "Synchronization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Read Write Lock",
+        "category": "Synchronization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Barrier",
+        "category": "Synchronization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Producer Consumer",
+        "category": "Synchronization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Belady Anomaly",
+        "category": "Paging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Second Chance Algorithm",
+        "category": "Paging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Clock Algorithm",
+        "category": "Paging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Buddy System",
+        "category": "Memory management",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Slab Allocator",
+        "category": "Memory management",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Demand Segmentation",
+        "category": "Segmentation",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Copy on Write",
+        "category": "Virtual memory",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Memory Mapped File",
+        "category": "Virtual memory",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "I Node",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hard Link",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Soft Link",
+        "category": "File systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Block Device",
+        "category": "Device management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Character Device",
+        "category": "Device management",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ioctl",
+        "category": "Device management",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Capabilities",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "SELinux",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Firewall",
+        "category": "Protection and security",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Buffer Overflow",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Privilege Escalation",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Sandboxing",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Chroot",
+        "category": "Linux internals",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Kernel Thread",
+        "category": "Threads and concurrency",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Lightweight Process",
+        "category": "Threads and concurrency",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SMP",
+        "category": "Multicore systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Symmetric Multiprocessing",
+        "category": "Multicore systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Asymmetric Multiprocessing",
+        "category": "Multicore systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Big Kernel Lock",
+        "category": "Linux internals",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "RCU",
+        "category": "Synchronization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Read Copy Update",
+        "category": "Synchronization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Distributed File System",
+        "category": "Distributed systems basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "NFS",
+        "category": "Distributed systems basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Clock Synchronization",
+        "category": "Distributed systems basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Lamport Timestamp",
+        "category": "Distributed systems basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Mutual Exclusion Distributed",
+        "category": "Distributed systems basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Election Algorithm",
+        "category": "Distributed systems basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Bully Algorithm",
+        "category": "Distributed systems basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Ring Algorithm",
+        "category": "Distributed systems basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Deadlock in Distributed",
+        "category": "Distributed systems basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "RTOS",
+        "category": "Real-time systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hard Real Time",
+        "category": "Real-time systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Soft Real Time",
+        "category": "Real-time systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rate Monotonic",
+        "category": "Real-time systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "EDF Scheduling",
+        "category": "Real-time systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Priority Ceiling",
+        "category": "Real-time systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Virtualization",
+        "category": "Containers and virtualization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "KVM",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Xen",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "LXC",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Pod",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Orchestration",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Kubernetes",
+        "category": "Containers and virtualization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Microservices",
+        "category": "Modern OS concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Serverless",
+        "category": "Modern OS concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Cloud OS",
+        "category": "Modern OS concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "eBPF",
+        "category": "Linux internals",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "User Space Driver",
+        "category": "Modern OS concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Zero Copy",
+        "category": "Modern OS concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "ASLR",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "DEP",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "NX Bit",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Meltdown",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Spectre",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Side Channel Attack",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Trusted Execution",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "SGX",
+        "category": "Protection and security",
+        "difficulty": "advanced"
+    }
+]

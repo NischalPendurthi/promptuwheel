@@ -1,0 +1,822 @@
+[
+    {
+        "keyword": "Object Oriented Programming",
+        "category": "OOP Fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "OOP",
+        "category": "OOP Fundamentals",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Class",
+        "category": "Classes",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Object",
+        "category": "Objects",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Instance",
+        "category": "Objects",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Constructor",
+        "category": "Classes",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Default Constructor",
+        "category": "Classes",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Parameterized Constructor",
+        "category": "Classes",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Copy Constructor",
+        "category": "Classes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Destructor",
+        "category": "Classes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Encapsulation",
+        "category": "Encapsulation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Abstraction",
+        "category": "Abstraction",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Data Hiding",
+        "category": "Encapsulation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Access Modifier",
+        "category": "Encapsulation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Public",
+        "category": "Encapsulation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Private",
+        "category": "Encapsulation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Protected",
+        "category": "Encapsulation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Getter",
+        "category": "Encapsulation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Setter",
+        "category": "Encapsulation",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Inheritance",
+        "category": "Inheritance",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Single Inheritance",
+        "category": "Inheritance",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Multiple Inheritance",
+        "category": "Inheritance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multilevel Inheritance",
+        "category": "Inheritance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hierarchical Inheritance",
+        "category": "Inheritance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hybrid Inheritance",
+        "category": "Inheritance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Base Class",
+        "category": "Inheritance",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Derived Class",
+        "category": "Inheritance",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Super Class",
+        "category": "Inheritance",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Subclass",
+        "category": "Inheritance",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Method Overriding",
+        "category": "Polymorphism",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Polymorphism",
+        "category": "Polymorphism",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Compile Time Polymorphism",
+        "category": "Polymorphism",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Runtime Polymorphism",
+        "category": "Polymorphism",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Method Overloading",
+        "category": "Polymorphism",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Operator Overloading",
+        "category": "Polymorphism",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Virtual Function",
+        "category": "Virtual functions",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pure Virtual Function",
+        "category": "Virtual functions",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Abstract Class",
+        "category": "Abstraction",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Concrete Class",
+        "category": "Classes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interface",
+        "category": "Interfaces",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dynamic Dispatch",
+        "category": "Dynamic dispatch",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Static Binding",
+        "category": "Dynamic dispatch",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dynamic Binding",
+        "category": "Dynamic dispatch",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Composition",
+        "category": "Composition",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Aggregation",
+        "category": "Aggregation",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Association",
+        "category": "Object relationships",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Has A Relationship",
+        "category": "Object relationships",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Is A Relationship",
+        "category": "Inheritance",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Dependency",
+        "category": "Object relationships",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Coupling",
+        "category": "Coupling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Loose Coupling",
+        "category": "Coupling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Tight Coupling",
+        "category": "Coupling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cohesion",
+        "category": "Cohesion",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "High Cohesion",
+        "category": "Cohesion",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Low Cohesion",
+        "category": "Cohesion",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SOLID Principles",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Single Responsibility",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Open Closed Principle",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Liskov Substitution",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interface Segregation",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dependency Inversion",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DRY",
+        "category": "Design principles",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "KISS",
+        "category": "Design principles",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "YAGNI",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dependency Injection",
+        "category": "Dependency injection",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Constructor Injection",
+        "category": "Dependency injection",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Setter Injection",
+        "category": "Dependency injection",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Interface Injection",
+        "category": "Dependency injection",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "UML",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Class Diagram",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sequence Diagram",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Use Case Diagram",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Object Diagram",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Inheritance Arrow",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Composition Diamond",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Aggregation Diamond",
+        "category": "UML",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Design Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Creational Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Structural Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Behavioral Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Singleton",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Factory Method",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Abstract Factory",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Builder Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Prototype Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Adapter Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bridge Pattern",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Composite Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Decorator Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Facade Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Flyweight Pattern",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Proxy Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Observer Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Strategy Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Command Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "State Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Template Method",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Iterator Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Memento Pattern",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Mediator Pattern",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Chain of Responsibility",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Visitor Pattern",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "GRASP Principles",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Information Expert",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Controller",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Low Coupling",
+        "category": "Coupling",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "High Cohesion",
+        "category": "Cohesion",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Polymorphic Server",
+        "category": "Polymorphism",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Pure Fabrication",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Indirection",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Protected Variations",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Clean Code",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Meaningful Names",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Single Responsibility Function",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Small Functions",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "No Magic Numbers",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Comments",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Self Documenting Code",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Refactoring",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Code Smell",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "God Class",
+        "category": "Clean code concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Long Method",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Primitive Obsession",
+        "category": "Clean code concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Feature Envy",
+        "category": "Clean code concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Immutable Object",
+        "category": "Advanced Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Mutable Object",
+        "category": "Advanced Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Final Keyword",
+        "category": "Advanced Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Static Method",
+        "category": "Advanced Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Static Variable",
+        "category": "Advanced Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Sealed Class",
+        "category": "Advanced Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Record Class",
+        "category": "Advanced Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Generics",
+        "category": "Advanced Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Covariance",
+        "category": "Advanced Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Contravariance",
+        "category": "Advanced Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Liskov Substitution Principle",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Open Closed Principle",
+        "category": "SOLID principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Tell Dont Ask",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Law of Demeter",
+        "category": "Design principles",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Principle of Least Astonishment",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Favor Composition Over Inheritance",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Programming to Interface",
+        "category": "Design principles",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Object Equality",
+        "category": "Objects",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hashcode Contract",
+        "category": "Advanced Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Equals Contract",
+        "category": "Advanced Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Clone Method",
+        "category": "Advanced Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Comparable",
+        "category": "Advanced Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Comparator",
+        "category": "Advanced Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Inner Class",
+        "category": "Classes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Anonymous Class",
+        "category": "Classes",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Lambda Expression",
+        "category": "Advanced Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Functional Interface",
+        "category": "Advanced Concepts",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Mixin",
+        "category": "Advanced Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Trait",
+        "category": "Advanced Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Aspect Oriented Programming",
+        "category": "Advanced Concepts",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Multiple Dispatch",
+        "category": "Dynamic dispatch",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Double Dispatch",
+        "category": "Dynamic dispatch",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Visitor Double Dispatch",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Factory",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Repository Pattern",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Unit of Work",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Service Locator",
+        "category": "Design patterns",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Null Object Pattern",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Object Pool",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Event Bus",
+        "category": "Design patterns",
+        "difficulty": "intermediate"
+    }
+]

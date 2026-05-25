@@ -1,0 +1,1037 @@
+[
+    {
+        "keyword": "Backend Engineering",
+        "category": "Backend Architecture",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Backend Architecture",
+        "category": "Backend Architecture",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Monolith",
+        "category": "Backend Architecture",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Microservices",
+        "category": "Microservices",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Serverless",
+        "category": "Backend Architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Layered Architecture",
+        "category": "Backend Architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Clean Architecture",
+        "category": "Backend Architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Hexagonal Architecture",
+        "category": "Backend Architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "REST API",
+        "category": "REST APIs",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "HTTP Methods",
+        "category": "REST APIs",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Status Codes",
+        "category": "REST APIs",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Resource Endpoint",
+        "category": "REST APIs",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "API Versioning",
+        "category": "API versioning",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "URI Versioning",
+        "category": "API versioning",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Header Versioning",
+        "category": "API versioning",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "GraphQL",
+        "category": "GraphQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Query",
+        "category": "GraphQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Mutation",
+        "category": "GraphQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Subscription",
+        "category": "GraphQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Schema",
+        "category": "GraphQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Resolver",
+        "category": "GraphQL",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Authentication",
+        "category": "Authentication",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Authorization",
+        "category": "Authorization",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "JWT",
+        "category": "JWT",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Access Token",
+        "category": "JWT",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Refresh Token",
+        "category": "JWT",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Session",
+        "category": "Sessions",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Cookie",
+        "category": "Cookies",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "HttpOnly Cookie",
+        "category": "Cookies",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Secure Cookie",
+        "category": "Cookies",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "OAuth2",
+        "category": "Authentication",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "OpenID Connect",
+        "category": "Authentication",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "RBAC",
+        "category": "Authorization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ABAC",
+        "category": "Authorization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Middleware",
+        "category": "Middleware",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Request Logging",
+        "category": "Middleware",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Error Handling Middleware",
+        "category": "Middleware",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CORS",
+        "category": "Middleware",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ORM",
+        "category": "ORM",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Active Record",
+        "category": "ORM",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Data Mapper",
+        "category": "ORM",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Database Integration",
+        "category": "Database integration",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Connection Pooling",
+        "category": "Database integration",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Query Builder",
+        "category": "Database integration",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Migration",
+        "category": "Database integration",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Seeding",
+        "category": "Database integration",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Caching",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cache Aside",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Write Through Cache",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Redis",
+        "category": "Redis",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Redis PubSub",
+        "category": "Redis",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Memcached",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Message Queue",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Kafka",
+        "category": "Kafka",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "RabbitMQ",
+        "category": "RabbitMQ",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "SQS",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Producer",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Consumer",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rate Limiting",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Token Bucket",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Leaky Bucket",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fixed Window",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Reverse Proxy",
+        "category": "Reverse proxy",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Nginx",
+        "category": "Reverse proxy",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Load Balancing",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Round Robin",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Least Connections",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "API Gateway",
+        "category": "API gateway",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WebSocket",
+        "category": "WebSockets",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "gRPC",
+        "category": "gRPC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Protocol Buffers",
+        "category": "gRPC",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Background Job",
+        "category": "Background jobs",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Async Processing",
+        "category": "Async processing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Celery",
+        "category": "Background jobs",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Hangfire",
+        "category": "Background jobs",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Scalability",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Horizontal Scaling",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Fault Tolerance",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Circuit Breaker",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Retry Pattern",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Timeout",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Logging",
+        "category": "Logging",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Structured Logging",
+        "category": "Logging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Monitoring",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Observability",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Metrics",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed Tracing",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Prometheus",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Grafana",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ELK Stack",
+        "category": "Logging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "File Storage",
+        "category": "File storage",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cloud Storage",
+        "category": "Cloud storage",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "S3",
+        "category": "Cloud storage",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CDN",
+        "category": "CDN",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Elasticsearch",
+        "category": "Elasticsearch",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Full Text Search",
+        "category": "Search systems",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Inverted Index",
+        "category": "Search systems",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Security",
+        "category": "Security basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "Input Validation",
+        "category": "Security basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "SQL Injection",
+        "category": "Security basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "XSS",
+        "category": "Security basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CSRF",
+        "category": "Security basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Helmet",
+        "category": "Security basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rate Limiting Security",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Backend Testing",
+        "category": "Backend testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Unit Test",
+        "category": "Backend testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Integration Test",
+        "category": "Backend testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "E2E Test",
+        "category": "Backend testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Contract Testing",
+        "category": "Backend testing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Deployment",
+        "category": "Deployment basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CI/CD",
+        "category": "Deployment basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Containerization",
+        "category": "Containerization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Docker",
+        "category": "Containerization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Kubernetes",
+        "category": "Containerization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Pod",
+        "category": "Containerization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Performance Optimization",
+        "category": "Performance optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Query Optimization",
+        "category": "Performance optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Indexing",
+        "category": "Performance optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "N+1 Query Problem",
+        "category": "Performance optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Lazy Loading",
+        "category": "Performance optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Eager Loading",
+        "category": "Performance optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Connection Pool",
+        "category": "Database integration",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Database Sharding",
+        "category": "Scalability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Read Replica",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Event Driven Architecture",
+        "category": "Async processing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pub Sub",
+        "category": "Message queues",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Saga Pattern",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "CQRS",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Event Sourcing",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Service Discovery",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "API Gateway Routing",
+        "category": "API gateway",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Load Balancer L4",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Load Balancer L7",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Health Check",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Graceful Shutdown",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Idempotency",
+        "category": "API design",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Pagination",
+        "category": "REST APIs",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cursor Pagination",
+        "category": "REST APIs",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Offset Pagination",
+        "category": "REST APIs",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bulk Operation",
+        "category": "REST APIs",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WebSocket Connection",
+        "category": "WebSockets",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Long Polling",
+        "category": "WebSockets",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Server Sent Events",
+        "category": "WebSockets",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "gRPC Streaming",
+        "category": "gRPC",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Background Worker",
+        "category": "Background jobs",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Cron Job",
+        "category": "Background jobs",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Queue Worker",
+        "category": "Background jobs",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Throttling",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Backpressure",
+        "category": "Scalability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "SLO",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Error Budget",
+        "category": "Observability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Alerting",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Anomaly Detection",
+        "category": "Monitoring",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Log Aggregation",
+        "category": "Logging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Trace Context",
+        "category": "Observability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Correlation ID",
+        "category": "Logging",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Object Storage",
+        "category": "Cloud storage",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Presigned URL",
+        "category": "Cloud storage",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "CDN Edge Caching",
+        "category": "CDN",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Search Index",
+        "category": "Elasticsearch",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Analyzer",
+        "category": "Elasticsearch",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Tokenizer",
+        "category": "Elasticsearch",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "HTTPS",
+        "category": "Security basics",
+        "difficulty": "beginner"
+    },
+    {
+        "keyword": "TLS",
+        "category": "Security basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Secret Management",
+        "category": "Security basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Vault",
+        "category": "Security basics",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Input Sanitization",
+        "category": "Security basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dependency Scanning",
+        "category": "Security basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Penetration Testing",
+        "category": "Backend testing",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Load Testing",
+        "category": "Backend testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stress Testing",
+        "category": "Backend testing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Blue Green Deployment",
+        "category": "Deployment basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Canary Deployment",
+        "category": "Deployment basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Rolling Update",
+        "category": "Deployment basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Zero Downtime",
+        "category": "Deployment basics",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Docker Compose",
+        "category": "Containerization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Dockerfile",
+        "category": "Containerization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Multi Stage Build",
+        "category": "Containerization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Orchestration",
+        "category": "Containerization",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Horizontal Pod Autoscaler",
+        "category": "Scalability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Database Indexing",
+        "category": "Performance optimization",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Query Caching",
+        "category": "Caching",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Database Denormalization",
+        "category": "Database integration",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Polyglot Persistence",
+        "category": "Database integration",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Eventual Consistency",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Strong Consistency",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "ACID Transaction",
+        "category": "Database integration",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Distributed Transaction",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Two Phase Commit",
+        "category": "Microservices",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Domain Driven Design",
+        "category": "Backend Architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Bounded Context",
+        "category": "Backend Architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Repository Pattern",
+        "category": "Backend Architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Service Layer",
+        "category": "Backend Architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "DTO",
+        "category": "Backend Architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Entity",
+        "category": "Backend Architecture",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Value Object",
+        "category": "Backend Architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Aggregate",
+        "category": "Backend Architecture",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "API Rate Limiter",
+        "category": "Rate limiting",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "WebSocket Scaling",
+        "category": "WebSockets",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Sticky Session",
+        "category": "Load balancing",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stateless Architecture",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Stateful Architecture",
+        "category": "Scalability",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Graceful Degradation",
+        "category": "Fault tolerance",
+        "difficulty": "intermediate"
+    },
+    {
+        "keyword": "Bulkhead",
+        "category": "Fault tolerance",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Observability Pipeline",
+        "category": "Observability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "RUM",
+        "category": "Observability",
+        "difficulty": "advanced"
+    },
+    {
+        "keyword": "Synthetic Monitoring",
+        "category": "Monitoring",
+        "difficulty": "intermediate"
+    }
+]
