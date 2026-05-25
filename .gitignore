@@ -24,3 +24,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# user data — don't commit personal history to git
+data/users.json

@@ -1,54 +1,75 @@
 "use client";
 
-import { useMemo, useCallback, useEffect } from "react";
+import { useState, useMemo, useCallback, useRef } from "react";
 import TopicSelector from "@/components/TopicSelector";
 import DifficultySelector from "@/components/DifficultySelector";
 import KeywordCard from "@/components/KeywordCard";
 import LLMHelper from "@/components/LLMHelper";
-import SessionHistory, { type HistoryEntry } from "@/components/SessionHistory";
-import { filterKeywords, pickRandom, keyId, type Keyword, type Difficulty } from "@/lib/keywords";
-import { useLocalStorage } from "@/lib/useLocalStorage";
+import SessionHistory from "@/components/SessionHistory";
+import UserGate from "@/components/UserGate";
+import { filterKeywords, pickRandom, keyId, type Keyword } from "@/lib/keywords";
+import type { HistoryEntry, UserRecord, Difficulty } from "@/lib/types";
 
 const SPIN_DURATION_MS = 1200;
-const STORAGE_KEYS = {
-  history: "pw_history",
-  topics: "pw_topics",
-  difficulties: "pw_difficulties",
-  activeTab: "pw_tab",
-};
 
-export default function Home() {
-  const [history, setHistory, clearHistory, historyHydrated] = useLocalStorage<HistoryEntry[]>(STORAGE_KEYS.history, []);
-  const [selectedTopics, setSelectedTopics] = useLocalStorage<string[]>(STORAGE_KEYS.topics, []);
-  const [selectedDifficulties, setSelectedDifficulties] = useLocalStorage<Difficulty[]>(STORAGE_KEYS.difficulties, []);
-  const [activeTab, setActiveTab] = useLocalStorage<"llm" | "history">(STORAGE_KEYS.activeTab, "history");
+async function patchUser(payload: Record<string, unknown>) {
+  await fetch("/api/user", {
+    method: "PATCH",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(payload),
+  });
+}
 
-  // currentKeyword is ephemeral (not persisted — you were mid-spin when you left)
-  const [currentKeyword, setCurrentKeyword] = useLocalStorage<Keyword | null>("pw_current", null);
-  const [isSpinning, setIsSpinning] = useLocalStorage<boolean>("pw_spinning", false);
-  const [mobilePanelOpen, setMobilePanelOpen] = useLocalStorage<boolean>("pw_mobile_panel", false);
+function AppContent({ user, logout }: { user: UserRecord; logout: () => void }) {
+  const [history, setHistory] = useState<HistoryEntry[]>(user.history);
+  const [selectedTopics, setSelectedTopics] = useState<string[]>(user.preferences.topics);
+  const [selectedDifficulties, setSelectedDifficulties] = useState<Difficulty[]>(user.preferences.difficulties);
+  const [currentKeyword, setCurrentKeyword] = useState<Keyword | null>(null);
+  const [isSpinning, setIsSpinning] = useState(false);
+  const [activeTab, setActiveTab] = useState<"llm" | "history">("history");
+  const [mobilePanelOpen, setMobilePanelOpen] = useState(false);
 
-  // Rebuild seenIds from persisted history
-  const seenIds = useMemo(
-    () => new Set(history.map((h) => keyId(h.keyword))),
-    [history]
-  );
+  // Track save state
+  const [saving, setSaving] = useState(false);
+  const saveTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  // Reset spinning state on mount (in case app was closed mid-spin)
-  useEffect(() => {
-    if (historyHydrated) setIsSpinning(false);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [historyHydrated]);
+  const seenIds = useMemo(() => new Set(history.map((h) => keyId(h.keyword))), [history]);
 
   const pool = useMemo(
     () => filterKeywords(selectedTopics, selectedDifficulties, seenIds),
     [selectedTopics, selectedDifficulties, seenIds]
   );
 
-  const spinPool = useMemo(
-    () => pool.slice(0, 30).map((k) => k.keyword),
-    [pool]
-  );
+  const spinPool = useMemo(() => pool.slice(0, 30).map((k) => k.keyword), [pool]);
+
+  // Debounced save to server
+  function scheduleSave(username: string, patch: Record<string, unknown>) {
+    if (saveTimer.current) clearTimeout(saveTimer.current);
+    setSaving(true);
+    saveTimer.current = setTimeout(async () => {
+      await patchUser({ username, ...patch });
+      setSaving(false);
+    }, 600);
+  }
+
+  function updateHistory(next: HistoryEntry[]) {
+    setHistory(next);
+    scheduleSave(user.username, { history: next });
+  }
+
+  function updateTopics(topics: string[]) {
+    setSelectedTopics(topics);
+    scheduleSave(user.username, {
+      preferences: { topics, difficulties: selectedDifficulties },
+    });
+  }
+
+  function updateDifficulties(difficulties: Difficulty[]) {
+    setSelectedDifficulties(difficulties);
+    scheduleSave(user.username, {
+      preferences: { topics: selectedTopics, difficulties },
+    });
+  }
 
   const spin = useCallback(() => {
     if (isSpinning || pool.length === 0) return;
@@ -60,53 +81,36 @@ export default function Home() {
       setIsSpinning(false);
       if (picked) {
         setCurrentKeyword(picked);
-        setHistory((prev) => [
-          ...prev,
-          { keyword: picked, status: "seen", timestamp: Date.now() },
-        ]);
+        const entry: HistoryEntry = { keyword: picked, status: "seen", timestamp: Date.now() };
+        updateHistory([...history, entry]);
       }
     }, SPIN_DURATION_MS);
-  }, [isSpinning, pool, setHistory, setCurrentKeyword, setIsSpinning]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isSpinning, pool, history]);
 
   function handleSkip() {
     if (!currentKeyword) return;
     const id = keyId(currentKeyword);
-    setHistory((prev) =>
-      prev.map((h) =>
-        keyId(h.keyword) === id && h.status === "seen"
-          ? { ...h, status: "skipped" }
-          : h
-      )
+    const next = history.map((h) =>
+      keyId(h.keyword) === id && h.status === "seen" ? { ...h, status: "skipped" as const } : h
     );
+    updateHistory(next);
     setCurrentKeyword(null);
   }
 
   function handleMarkKnown() {
     if (!currentKeyword) return;
     const id = keyId(currentKeyword);
-    setHistory((prev) =>
-      prev.map((h) =>
-        keyId(h.keyword) === id && h.status === "seen"
-          ? { ...h, status: "known" }
-          : h
-      )
+    const next = history.map((h) =>
+      keyId(h.keyword) === id && h.status === "seen" ? { ...h, status: "known" as const } : h
     );
+    updateHistory(next);
     setCurrentKeyword(null);
   }
 
   function handleClearHistory() {
-    clearHistory();
+    updateHistory([]);
     setCurrentKeyword(null);
-  }
-
-  // Don't render history-dependent UI until localStorage is loaded
-  // (prevents flash of empty state)
-  if (!historyHydrated) {
-    return (
-      <div className="min-h-screen bg-[#0f0f13] flex items-center justify-center">
-        <div className="w-6 h-6 border-2 border-purple-500/30 border-t-purple-500 rounded-full animate-spin" />
-      </div>
-    );
   }
 
   const knownCount = history.filter((h) => h.status === "known").length;
@@ -124,17 +128,41 @@ export default function Home() {
               PromptU<span className="text-purple-400">Wheel</span>
             </span>
           </div>
+
           <div className="flex items-center gap-3">
-            {/* Persistent progress badge */}
+            {/* Save indicator */}
+            {saving && (
+              <span className="text-xs text-gray-600 flex items-center gap-1">
+                <span className="w-2.5 h-2.5 border border-gray-600 border-t-gray-400 rounded-full animate-spin" />
+                Saving...
+              </span>
+            )}
+
+            {/* Progress badge */}
             {history.length > 0 && (
               <div className="hidden sm:flex items-center gap-2 text-xs text-gray-500">
                 <span className="w-1.5 h-1.5 rounded-full bg-purple-500" />
                 {history.length} seen · {knownCount} known
               </div>
             )}
-            <span className="text-xs text-gray-600 hidden sm:block">
-              {pool.length} left in pool
-            </span>
+
+            <span className="text-xs text-gray-600 hidden sm:block">{pool.length} left</span>
+
+            {/* User badge + logout */}
+            <div className="flex items-center gap-2 bg-[#1a1a24] border border-[#2a2a3a] rounded-lg px-3 py-1.5">
+              <span className="w-5 h-5 rounded-full bg-gradient-to-br from-purple-600 to-pink-600 flex items-center justify-center text-xs font-bold">
+                {user.username[0].toUpperCase()}
+              </span>
+              <span className="text-xs text-gray-300">{user.username}</span>
+              <button
+                onClick={logout}
+                className="text-xs text-gray-600 hover:text-red-400 transition-colors ml-1"
+                title="Switch user"
+              >
+                ×
+              </button>
+            </div>
+
             <button
               onClick={() => setMobilePanelOpen((o) => !o)}
               className="lg:hidden px-3 py-1.5 rounded-lg bg-[#1a1a24] border border-[#2a2a3a] text-xs text-gray-400"
@@ -147,18 +175,18 @@ export default function Home() {
 
       <div className="max-w-7xl mx-auto px-4 py-6">
         <div className="flex gap-6 items-start">
-          {/* ── Left sidebar: filters ─────────────────────────────── */}
+          {/* ── Left sidebar ─────────────────────────────── */}
           <aside className="w-72 shrink-0 hidden lg:flex flex-col gap-5 sticky top-20">
-            <TopicSelector selected={selectedTopics} onChange={setSelectedTopics} />
+            <TopicSelector selected={selectedTopics} onChange={updateTopics} />
             <div className="border-t border-[#2a2a3a]" />
-            <DifficultySelector selected={selectedDifficulties} onChange={setSelectedDifficulties} />
+            <DifficultySelector selected={selectedDifficulties} onChange={updateDifficulties} />
           </aside>
 
-          {/* ── Center: keyword card ──────────────────────────────── */}
+          {/* ── Center ──────────────────────────────── */}
           <main className="flex-1 flex flex-col gap-6">
             <div className="lg:hidden space-y-4">
-              <TopicSelector selected={selectedTopics} onChange={setSelectedTopics} />
-              <DifficultySelector selected={selectedDifficulties} onChange={setSelectedDifficulties} />
+              <TopicSelector selected={selectedTopics} onChange={updateTopics} />
+              <DifficultySelector selected={selectedDifficulties} onChange={updateDifficulties} />
               <div className="border-t border-[#2a2a3a]" />
             </div>
 
@@ -195,7 +223,7 @@ export default function Home() {
             </div>
           </main>
 
-          {/* ── Right sidebar: LLM + history ──────────────────────── */}
+          {/* ── Right sidebar ──────────────────────────────── */}
           <aside className="w-80 shrink-0 hidden lg:flex flex-col gap-4 sticky top-20">
             <div className="flex gap-1 bg-[#13131a] rounded-lg p-1">
               <button
@@ -211,7 +239,6 @@ export default function Home() {
                 History ({history.length})
               </button>
             </div>
-
             {activeTab === "llm" ? (
               <LLMHelper keyword={currentKeyword} />
             ) : (
@@ -221,5 +248,13 @@ export default function Home() {
         </div>
       </div>
     </div>
+  );
+}
+
+export default function Home() {
+  return (
+    <UserGate>
+      {(user, logout) => <AppContent user={user} logout={logout} />}
+    </UserGate>
   );
 }

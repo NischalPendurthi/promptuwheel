@@ -1,12 +1,6 @@
 "use client";
 
-import type { Keyword } from "@/lib/keywords";
-
-interface HistoryEntry {
-  keyword: Keyword;
-  status: "seen" | "known" | "skipped";
-  timestamp: number;
-}
+import type { HistoryEntry } from "@/lib/types";
 
 interface Props {
   history: HistoryEntry[];
@@ -85,4 +79,4 @@ export default function SessionHistory({ history, onClearHistory }: Props) {
   );
 }
 
-export type { HistoryEntry };
+export type { HistoryEntry } from "@/lib/types";
